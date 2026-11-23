@@ -1,0 +1,235 @@
+{
+ "board": "Board of County Commissioners",
+ "clerkPhone": "856-853-3271",
+ "defaultLocation": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+ "lastChecked": "2026-11-22",
+ "source": "https://www.gloucestercountynj.gov/DocumentCenter/View/14741/2026-COMMISSIONERS-MEETING-Schedule",
+ "sourceLabel": "Gloucester County 2026 Commissioners Meeting Schedule",
+ "meetings": [
+  {
+   "date": "2026-01-02",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Annual Reorganization",
+   "agenda": true
+  },
+  {
+   "date": "2026-01-21",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-02-04",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-02-18",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-03-04",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-03-18",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-04-01",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-04-15",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-05-13",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-05-27",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-06-03",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-06-17",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-07-01",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-07-15",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-08-05",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-08-19",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-09-09",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-09-23",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-10-07",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-10-21",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-11-04",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": true
+  },
+  {
+   "date": "2026-11-24",
+   "hour": 17,
+   "minute": 0,
+   "timeLabel": "5:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": false
+  },
+  {
+   "date": "2026-12-02",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": false
+  },
+  {
+   "date": "2026-12-16",
+   "hour": 18,
+   "minute": 0,
+   "timeLabel": "6:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Regular",
+   "agenda": false
+  },
+  {
+   "date": "2026-12-29",
+   "hour": 12,
+   "minute": 0,
+   "timeLabel": "12:00 PM",
+   "location": "Court Room 201 (Ceremonial Court Room), County Courthouse, 1 North Broad Street, Woodbury, NJ 08096",
+   "type": "Close Out",
+   "agenda": false
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "governingRule": "Official government sites only. Each topic answers to whoever owns that topic: county questions to Gloucester County, municipal questions routed out to the resident town, license and court questions to the State of New Jersey. No blogs, news articles, forums or search snippets treated as fact. If no listed source covers a question, fall back to the Gloucester County main number instead of answering from model memory.",
+ "notApproved": [
+  {
+   "approved": false,
+   "domain": "atlanticcityelectric.com",
+   "note": "Atlantic City Electric is the electric utility for Gloucester County and owns most streetlights, but it is NOT an approved source for this chatbot. Discussion only."
+  },
+  {
+   "approved": false,
+   "domain": "pseg.com",
+   "note": "PSE&G serves parts of the region for gas and electric, but it is NOT an approved source for this chatbot. Discussion only."
+  }
+ ],
+ "policy": "Adding a source takes a deliberate admin edit and, in production, Clerk approval. The chatbot may only search, fetch and cite sources on this list.",
+ "ranking": "For local facts, county sources outrank state sources, which outrank federal refer-out sources.",
+ "tiers": [
+  {
+   "name": "Gloucester County",
+   "tier": 1,
+   "sources": [
+    {
+     "approved": true,
+     "domain": "gloucestercountynj.gov",
+     "scope": "Gloucester County government: Board of Commissioners, departments, meetings, elections, clerk, surrogate, sheriff, parks, health, senior and veterans services"
+    },
+    {
+     "approved": true,
+     "domain": "gcls.org",
+     "scope": "Gloucester County Library System, library hours, branches and programs only. Included at Tier 1 for the library topic only, following the same pattern the Parsippany bot uses for its library domain."
+    }
+   ]
+  },
+  {
+   "name": "State of New Jersey",
+   "tier": 3,
+   "sources": [
+    {
+     "approved": true,
+     "domain": "nj.gov/mvc",
+     "scope": "NJ Motor Vehicle Commission: driver licenses, plates, disability placards"
+    },
+    {
+     "approved": true,
+     "domain": "njcourts.gov",
+     "scope": "NJ court system: municipal court process and ticket payment, NJMCdirect"
+    },
+    {
+     "approved": true,
+     "domain": "nj.gov",
+     "scope": "State programs that county pages point to, including elections and benefits"
+    }
+   ]
+  },
+  {
+   "name": "Federal, refer out only",
+   "tier": 4,
+   "sources": [
+    {
+     "approved": true,
+     "domain": "usa.gov",
+     "scope": "Federal programs, refer out only"
+    },
+    {
+     "approved": true,
+     "domain": "ssa.gov",
+     "scope": "Social Security, refer out only"
+    },
+    {
+     "approved": true,
+     "domain": "medicare.gov",
+     "scope": "Medicare, refer out only"
+    },
+    {
+     "approved": true,
+     "domain": "va.gov",
+     "scope": "U.S. Department of Veterans Affairs, refer out only"
+    },
+    {
+     "approved": true,
+     "domain": "travel.state.gov",
+     "scope": "U.S. passports, refer out only"
+    }
+   ]
+  }
+ ]
+}
