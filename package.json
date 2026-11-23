@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"Gloucester County constituent chatbot backend: bilingual EN/ES answers from a verified local index, with optional Meta Model API answers for questions the index does not cover.","engines":{"node":">=20"},"main":"server.js","name":"gloucester-chatbot","scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
