@@ -561,13 +561,16 @@
      "permiso para picnic",
      "permiso de parque",
      "reservar un parque",
-     "hacer un evento en un parque del condado"
+     "hacer un evento en un parque del condado",
+     "como reservo un pabellon",
+     "reserva de pabellon",
+     "pabellon"
     ]
    },
    "en": {
-    "lead": "Pavilion reservations and permits for county parks are handled by Gloucester County Parks and Recreation, online or by phone.",
+    "lead": "Pavilion reservations and permits for county parks are handled by Gloucester County Parks and Recreation, and the fastest way is by phone at 856-251-6710.",
     "details": [
-     "Reservations open on the first working day in January for that same year only, and a reservation must be made at least 3 days ahead. You can reserve online through the county's reservation catalog, which requires an account, or by calling Parks and Recreation at 856-251-6710.",
+     "Reservations open on the first working day in January for that same year only, and a reservation must be made at least 3 days ahead. Call Parks and Recreation at 856-251-6710 to reserve. You can also reserve online through the county's reservation catalog, which requires creating an account first.",
      "The Atkinson Park pavilion holds up to 100 people, with 12 tables, charcoal grills and electric. The Scotland Run Park pavilion holds up to 65 people, with 8 tables and grills and no electric. County parks cannot be closed off for private events. Permits for town parks come from your municipality, not the county."
     ],
     "contact": [
@@ -579,9 +582,9 @@
     ]
    },
    "es": {
-    "lead": "Las reservas de pabellones y los permisos para los parques del condado los atiende Parques y Recreación del Condado de Gloucester, en línea o por teléfono.",
+    "lead": "Las reservas de pabellones y los permisos para los parques del condado los atiende Parques y Recreación del Condado de Gloucester, y la forma más rápida es por teléfono al 856-251-6710.",
     "details": [
-     "Las reservas abren el primer día laborable de enero solo para ese mismo año, y deben hacerse con al menos 3 días de anticipación. Puede reservar en línea a través del catálogo de reservas del condado, que requiere una cuenta, o llamando a Parques y Recreación al 856-251-6710.",
+     "Las reservas abren el primer día laborable de enero solo para ese mismo año, y deben hacerse con al menos 3 días de anticipación. Llame a Parques y Recreación al 856-251-6710 para reservar. También puede reservar en línea a través del catálogo de reservas del condado, que requiere crear una cuenta primero.",
      "El pabellón de Atkinson Park tiene capacidad para hasta 100 personas, con 12 mesas, parrillas de carbón y electricidad. El pabellón de Scotland Run Park tiene capacidad para hasta 65 personas, con 8 mesas y parrillas y sin electricidad. Los parques del condado no pueden cerrarse para eventos privados. Los permisos para parques de los pueblos se obtienen en su municipio, no en el condado."
     ],
     "contact": [
@@ -2430,7 +2433,7 @@
    "en": {
     "lead": "Municipal court in Gloucester County belongs to your town, not to the county.",
     "details": [
-     "Traffic tickets and local ordinance cases are heard in the municipal court of the town where the ticket was issued. Your ticket shows the court name, address and the date, and many tickets can be paid through the New Jersey courts site at njcourts.gov.",
+     "Traffic tickets and local ordinance cases are heard in the municipal court of the town where the ticket was issued. Your ticket shows the court name, address and the date. Many tickets can be paid online at NJMCDirect, njmcdirect.com, where you simply enter the ticket number and pay; no account is needed. The New Jersey Courts site, njcourts.gov, has general court information.",
      "County government does not run a municipal court and cannot take a ticket payment or change a court date. For questions, call the municipal court office printed on your ticket."
     ],
     "contact": [
@@ -2438,6 +2441,11 @@
       "label": "Gloucester County main number",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
+     },
+     {
+      "label": "Pay a ticket online (NJMCDirect)",
+      "value": "njmcdirect.com",
+      "href": "https://www.njmcdirect.com"
      },
      {
       "label": "New Jersey Courts",
@@ -2449,7 +2457,7 @@
    "es": {
     "lead": "El tribunal municipal en el Condado de Gloucester corresponde a su pueblo, no al condado.",
     "details": [
-     "Las multas de tránsito y los casos de ordenanzas locales se atienden en el tribunal municipal del pueblo donde se emitió la multa. Su multa muestra el nombre del tribunal, la dirección y la fecha, y muchas multas pueden pagarse a través del sitio de los tribunales de New Jersey en njcourts.gov.",
+     "Las multas de tránsito y los casos de ordenanzas locales se atienden en el tribunal municipal del pueblo donde se emitió la multa. Su multa muestra el nombre del tribunal, la dirección y la fecha. Muchas multas pueden pagarse en línea en NJMCDirect, njmcdirect.com, donde simplemente ingresa el número de la multa y paga; no se necesita una cuenta. El sitio de los tribunales de New Jersey, njcourts.gov, tiene información general sobre los tribunales.",
      "El gobierno del condado no administra ningún tribunal municipal y no puede recibir el pago de una multa ni cambiar una fecha de corte. Para preguntas, llame a la oficina del tribunal municipal indicada en su multa."
     ],
     "contact": [
@@ -2457,6 +2465,11 @@
       "label": "Número principal del Condado de Gloucester",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
+     },
+     {
+      "label": "Pagar una multa en línea (NJMCDirect)",
+      "value": "njmcdirect.com",
+      "href": "https://www.njmcdirect.com"
      },
      {
       "label": "Tribunales de New Jersey",
