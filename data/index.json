@@ -1,6 +1,6 @@
 {
  "helpDeskPhone": "856-853-3200",
- "lastChecked": "2026-11-22",
+ "lastChecked": "2026-11-24",
  "townHall": {
   "address": "2 South Broad Street, PO Box 337, Woodbury, NJ 08096",
   "mainPhone": "856-853-3200"
@@ -29,9 +29,9 @@
     ]
    },
    "en": {
-    "lead": "Gloucester County government offices are based at the County Administration Building in Woodbury, and the county main number is 856-853-3200.",
+    "lead": "Gloucester County's main offices are at the County Administration Building in Woodbury, and the county main number is 856-853-3200.",
     "details": [
-     "The Administration Building is at 2 South Broad Street, PO Box 337, Woodbury, NJ 08096. Woodbury is the county seat.",
+     "The Administration Building is at 2 South Broad Street, PO Box 337, Woodbury, NJ 08096. Some county offices are at other locations, including Elections in West Deptford and the Sheriff and Prosecutor on Hunter Street in Woodbury.",
      "Gloucester County covers 24 municipalities. Some services, like garbage pickup and municipal court, belong to your town rather than the county, and this assistant will point you to your town for those."
     ],
     "contact": [
@@ -47,9 +47,9 @@
     ]
    },
    "es": {
-    "lead": "Las oficinas del gobierno del Condado de Gloucester están en el Edificio de Administración del Condado en Woodbury, y el número principal del condado es 856-853-3200.",
+    "lead": "Las oficinas principales del Condado de Gloucester están en el Edificio de Administración del Condado en Woodbury, y el número principal del condado es 856-853-3200.",
     "details": [
-     "El Edificio de Administración está en 2 South Broad Street, PO Box 337, Woodbury, NJ 08096. Woodbury es la sede del condado.",
+     "El Edificio de Administración está en 2 South Broad Street, PO Box 337, Woodbury, NJ 08096. Algunas oficinas del condado están en otros lugares, como Elecciones en West Deptford y el Alguacil y el Fiscal en Hunter Street en Woodbury.",
      "El Condado de Gloucester abarca 24 municipios. Algunos servicios, como la recogida de basura y el tribunal municipal, corresponden a su pueblo y no al condado, y este asistente le indicará que se dirija a su pueblo para esos temas."
     ],
     "contact": [
@@ -92,7 +92,7 @@
    "en": {
     "lead": "Gloucester County is governed by a seven member Board of County Commissioners, led by Director Frank J. DiMarco.",
     "details": [
-     "The 2026 board is Frank J. DiMarco, Director; Jim Jefferson, Deputy Director; and Commissioners Tom Bianco, Nicholas DeSilvio, Joann Gattinelli, Christopher Konawel Jr. and Matt Weng.",
+     "The 2026 board is Frank J. DiMarco, Director; Jim Jefferson, Deputy Director; and Commissioners Tom Bianco, Nicholas DeSilvio, Joann Gattinelli, Christopher Konawel Jr. and Matthew Weng.",
      "Each commissioner serves as liaison to county departments, for example Public Works, Health and Human Services, and Public Safety and Veterans Affairs."
     ],
     "contact": [
@@ -111,7 +111,7 @@
    "es": {
     "lead": "El Condado de Gloucester está gobernado por una Junta de Comisionados del Condado de siete miembros, dirigida por el Director Frank J. DiMarco.",
     "details": [
-     "La junta de 2026 está formada por Frank J. DiMarco, Director; Jim Jefferson, Director Adjunto; y los Comisionados Tom Bianco, Nicholas DeSilvio, Joann Gattinelli, Christopher Konawel Jr. y Matt Weng.",
+     "La junta de 2026 está formada por Frank J. DiMarco, Director; Jim Jefferson, Director Adjunto; y los Comisionados Tom Bianco, Nicholas DeSilvio, Joann Gattinelli, Christopher Konawel Jr. y Matthew Weng.",
      "Cada comisionado actúa como enlace con departamentos del condado, por ejemplo Obras Públicas, Salud y Servicios Humanos, y Seguridad Pública y Asuntos de Veteranos."
     ],
     "contact": [
@@ -152,6 +152,7 @@
     "lead": "Commissioner meeting agendas and minutes are posted on the county website in the Agenda Center.",
     "details": [
      "Agendas are posted before each regular meeting and minutes are posted after approval. The Clerk of the Board keeps the official record of board meetings.",
+     "Regular meetings are generally on the first and third Wednesday of each month at 6:00 PM, though dates shift in some weeks; this assistant gives the next meeting from the posted schedule.",
      "Meetings are held in Court Room 201 of the County Courthouse, 1 North Broad Street, Woodbury. Ask this assistant when the next meeting is for the current schedule."
     ],
     "contact": [
@@ -171,6 +172,7 @@
     "lead": "Las agendas y actas de las reuniones de los comisionados se publican en el sitio web del condado, en el Centro de Agendas.",
     "details": [
      "Las agendas se publican antes de cada reunión regular y las actas después de su aprobación. La Secretaria de la Junta guarda el registro oficial de las reuniones.",
+     "Las reuniones ordinarias son generalmente el primer y tercer miércoles de cada mes a las 6:00 PM, aunque las fechas cambian en algunas semanas; este asistente indica la próxima reunión según el calendario publicado.",
      "Las reuniones se celebran en la Sala 201 del Palacio de Justicia del Condado, 1 North Broad Street, Woodbury. Pregunte a este asistente cuándo es la próxima reunión para ver el calendario actual."
     ],
     "contact": [
@@ -208,16 +210,26 @@
     ]
    },
    "en": {
-    "lead": "You can request Gloucester County public records with an OPRA request filed with the county records custodian.",
+    "lead": "You can request Gloucester County public records with an OPRA request filed with the Clerk of the Board, the county's records custodian.",
     "details": [
-     "OPRA covers government records held by the county. The Clerk of the Board coordinates county OPRA requests and can tell you the correct form and any copying fees.",
-     "Records held by your town, like local police reports, are requested from your municipality instead. Court records are handled through the New Jersey courts."
+     "Copying fees are 5 cents per letter size page and 7 cents per legal size page. There is no fee to examine or inspect records, and the custodian must respond as soon as possible, within seven business days.",
+     "Records held by your town, like local police reports, are requested from your municipal clerk instead. Court records are maintained by the New Jersey Judiciary. Prosecutor records have a separate OPRA contact, listed below."
     ],
     "contact": [
      {
       "label": "Clerk of the Board, Laurie J. Burns",
       "value": "856-853-3271",
       "href": "tel:+18568533271"
+     },
+     {
+      "label": "Clerk of the Board email",
+      "value": "lburns@co.gloucester.nj.us",
+      "href": "mailto:lburns@co.gloucester.nj.us"
+     },
+     {
+      "label": "Prosecutor OPRA requests",
+      "value": "856-384-5529",
+      "href": "tel:+18563845529"
      },
      {
       "label": "Gloucester County main number",
@@ -227,10 +239,10 @@
     ]
    },
    "es": {
-    "lead": "Puede solicitar los registros públicos del Condado de Gloucester con una solicitud OPRA presentada ante el custodio de registros del condado.",
+    "lead": "Puede solicitar los registros públicos del Condado de Gloucester con una solicitud OPRA presentada ante la Secretaria de la Junta, la custodia de registros del condado.",
     "details": [
-     "OPRA cubre los registros gubernamentales que guarda el condado. La Secretaria de la Junta coordina las solicitudes OPRA del condado y puede indicarle el formulario correcto y cualquier costo de copias.",
-     "Los registros que guarda su pueblo, como los reportes de la policía local, se solicitan a su municipio. Los registros judiciales se tramitan a través de los tribunales de New Jersey."
+     "Las copias cuestan 5 centavos por página tamaño carta y 7 centavos por página tamaño legal. Examinar o inspeccionar registros es gratis, y la custodia debe responder lo antes posible, dentro de siete días hábiles.",
+     "Los registros de su pueblo, como los informes de la policía local, se solicitan al secretario de su municipio. Los registros judiciales los mantiene el Poder Judicial de New Jersey. Los registros del Fiscal tienen un contacto OPRA aparte, indicado abajo."
     ],
     "contact": [
      {
@@ -239,13 +251,23 @@
       "href": "tel:+18568533271"
      },
      {
+      "label": "Correo de la Secretaria de la Junta",
+      "value": "lburns@co.gloucester.nj.us",
+      "href": "mailto:lburns@co.gloucester.nj.us"
+     },
+     {
+      "label": "Solicitudes OPRA al Fiscal",
+      "value": "856-384-5529",
+      "href": "tel:+18563845529"
+     },
+     {
       "label": "Número principal del Condado de Gloucester",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/1155/OPRA-REQUEST-INFORMATION",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -270,8 +292,8 @@
    "en": {
     "lead": "Potholes and damage on county roads are handled by the Gloucester County Public Works Department, which you can reach at 856-307-6400.",
     "details": [
-     "Public Works maintains county roads and bridges from its Clayton complex at 1200 N Delsea Drive, Clayton, NJ 08312. When you call, give the road name, the nearest cross street and your town so the crew can find the spot.",
-     "If the road is a town street rather than a county road, your municipality handles the repair. Public Works or your town hall can tell you whose road it is. For a road emergency that is a danger right now, call 911."
+     "Public Works maintains 410 miles of county roads and 85 county bridges from its Clayton complex at 1200 N Delsea Drive, Clayton, NJ 08312. Highway phones are answered from 8:00 AM to 4:00 PM. When you call, give the road name, the nearest cross street and your town so the crew can find the spot.",
+     "You can also report a county road pothole online with the county's Report a Pothole form, linked below. If the road is a town street rather than a county road, your municipality handles the repair; the county site posts a list of county roads if you are not sure. For a road emergency that is a danger right now, call 911."
     ],
     "contact": [
      {
@@ -282,14 +304,19 @@
      {
       "label": "Public Works",
       "value": "1200 N Delsea Drive, Clayton, NJ 08312"
+     },
+     {
+      "label": "Report a Pothole form",
+      "value": "gloucestercountynj.gov",
+      "href": "https://www.gloucestercountynj.gov/FormCenter/Public-Works-11/Report-a-Pothole-60"
      }
     ]
    },
    "es": {
-    "lead": "Los baches y daños en las carreteras del condado los atiende el Departamento de Obras Públicas del Condado de Gloucester, al que puede llamar al 856-307-6400.",
+    "lead": "Los baches y daños en las carreteras del condado los atiende el Departamento de Obras Públicas del Condado de Gloucester, al 856-307-6400.",
     "details": [
-     "Obras Públicas mantiene las carreteras y puentes del condado desde su complejo de Clayton, en 1200 N Delsea Drive, Clayton, NJ 08312. Cuando llame, indique el nombre de la carretera, la calle transversal más cercana y su pueblo para que la cuadrilla encuentre el lugar.",
-     "Si la calle es de su pueblo y no una carretera del condado, su municipio se encarga de la reparación. Obras Públicas o su ayuntamiento pueden decirle de quién es la carretera. Para una emergencia vial que sea un peligro en este momento, llame al 911."
+     "Obras Públicas mantiene 410 millas de carreteras del condado y 85 puentes del condado desde su complejo de Clayton, en 1200 N Delsea Drive, Clayton, NJ 08312. Los teléfonos de Carreteras se atienden de 8:00 AM a 4:00 PM. Cuando llame, indique el nombre de la carretera, la calle transversal más cercana y su pueblo para que el equipo pueda encontrar el lugar.",
+     "También puede reportar un bache en una carretera del condado en línea con el formulario Report a Pothole del condado, enlazado abajo. Si la vía es una calle de su pueblo y no una carretera del condado, la reparación corresponde a su municipio; el sitio del condado publica una lista de carreteras del condado si no está seguro. Para una emergencia vial que sea un peligro en este momento, llame al 911."
     ],
     "contact": [
      {
@@ -300,10 +327,15 @@
      {
       "label": "Obras Públicas",
       "value": "1200 N Delsea Drive, Clayton, NJ 08312"
+     },
+     {
+      "label": "Formulario Report a Pothole",
+      "value": "gloucestercountynj.gov",
+      "href": "https://www.gloucestercountynj.gov/FormCenter/Public-Works-11/Report-a-Pothole-60"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/480/Public-Works",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -315,7 +347,11 @@
      "snow removal county roads",
      "county snow plowing",
      "winter road conditions",
-     "detour"
+     "detour",
+     "when do they plow",
+     "snow plowing",
+     "plow county roads",
+     "snow removal"
     ],
     "es": [
      "cierres de carreteras del condado",
@@ -323,20 +359,28 @@
      "remocion de nieve en carreteras del condado",
      "quitanieves del condado",
      "condiciones viales en invierno",
-     "desvio"
+     "desvio",
+     "cuando limpian la nieve",
+     "quitanieves",
+     "remocion de nieve"
     ]
    },
    "en": {
-    "lead": "County road closures, detours and snow operations on county roads are run by Gloucester County Public Works.",
+    "lead": "County road closures, detours and snow operations on county roads are run by Gloucester County Public Works, and current closures are posted on the county's Road Work Updates page.",
     "details": [
-     "During storms, county crews plow and treat county roads first, then work through problem spots. Town streets are plowed by your municipality, and state highways by New Jersey DOT.",
-     "For a closure that blocks emergency access or a dangerous road condition, call 911. Otherwise Public Works can confirm whether a county road is closed and what detour is posted."
+     "In snow and ice, county crews work in a set priority order: hospital routes first, then arterial roads, then collector roads, then local roads, and plowing usually starts after 1 to 2 inches of snow has accumulated. Town streets are plowed by your municipality, and state highways by New Jersey DOT. County equipment does not clear private driveways.",
+     "For a closure that blocks emergency access or a dangerous road condition, call 911. For questions about a specific county road project or detour, the Engineering Department is at 856-307-6600."
     ],
     "contact": [
      {
       "label": "Public Works",
       "value": "856-307-6400",
       "href": "tel:+18563076400"
+     },
+     {
+      "label": "Engineering Department",
+      "value": "856-307-6600",
+      "href": "tel:+18563076600"
      },
      {
       "label": "Gloucester County main number",
@@ -346,10 +390,10 @@
     ]
    },
    "es": {
-    "lead": "Los cierres de carreteras del condado, los desvíos y las operaciones de nieve en carreteras del condado están a cargo de Obras Públicas del Condado de Gloucester.",
+    "lead": "Los cierres de carreteras del condado, los desvíos y las operaciones de nieve en las carreteras del condado los realiza Obras Públicas del Condado de Gloucester, y los cierres actuales se publican en la página Road Work Updates del condado.",
     "details": [
-     "Durante las tormentas, las cuadrillas del condado limpian y tratan primero las carreteras del condado y luego atienden los puntos problemáticos. Las calles de su pueblo las limpia su municipio, y las autopistas estatales el DOT de New Jersey.",
-     "Para un cierre que bloquee el acceso de emergencia o una condición vial peligrosa, llame al 911. En otros casos, Obras Públicas puede confirmar si una carretera del condado está cerrada y qué desvío está señalizado."
+     "Con nieve y hielo, los equipos del condado trabajan en un orden de prioridad fijo: primero las rutas a hospitales, luego las vías arteriales, luego las colectoras y luego las locales, y la limpieza suele comenzar después de que se acumulan de 1 a 2 pulgadas de nieve. Las calles de los pueblos las limpia su municipio y las carreteras estatales el DOT de New Jersey. Los equipos del condado no limpian entradas privadas.",
+     "Para un cierre que bloquee el acceso de emergencia o una condición vial peligrosa, llame al 911. Para preguntas sobre un proyecto o desvío específico en una carretera del condado, el Departamento de Ingeniería atiende al 856-307-6600."
     ],
     "contact": [
      {
@@ -358,13 +402,18 @@
       "href": "tel:+18563076400"
      },
      {
+      "label": "Departamento de Ingeniería",
+      "value": "856-307-6600",
+      "href": "tel:+18563076600"
+     },
+     {
       "label": "Número principal del Condado de Gloucester",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/561/Road-Work-Updates",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -386,32 +435,42 @@
    "en": {
     "lead": "Gloucester County bridges are maintained by the county Public Works and Engineering teams.",
     "details": [
-     "Bridge repairs and closures on county bridges are announced by the county, and detours are posted at the bridge. Report a bridge problem, like a damaged rail or debris, to Public Works.",
-     "Bridges on state highways are a New Jersey DOT responsibility rather than the county."
+     "The county maintains 85 bridges. Bridge repairs and closures are announced on the county's Road Work Updates page, where the current bridge projects and their detours are listed. Report a bridge problem, like a damaged rail or debris, to Public Works.",
+     "For questions about a specific bridge project, the Engineering Department is at 856-307-6600. Bridges on state highways are a New Jersey DOT responsibility rather than the county."
     ],
     "contact": [
      {
       "label": "Public Works",
       "value": "856-307-6400",
       "href": "tel:+18563076400"
+     },
+     {
+      "label": "Engineering Department",
+      "value": "856-307-6600",
+      "href": "tel:+18563076600"
      }
     ]
    },
    "es": {
-    "lead": "Los puentes del Condado de Gloucester los mantiene el equipo de Obras Públicas e Ingeniería del condado.",
+    "lead": "Los puentes del Condado de Gloucester los mantienen los equipos de Obras Públicas e Ingeniería del condado.",
     "details": [
-     "Las reparaciones y cierres de puentes del condado los anuncia el condado, y los desvíos se señalizan en el puente. Reporte un problema en un puente, como una baranda dañada o escombros, a Obras Públicas.",
-     "Los puentes en autopistas estatales son responsabilidad del DOT de New Jersey y no del condado."
+     "El condado mantiene 85 puentes. Las reparaciones y cierres de puentes se anuncian en la página Road Work Updates del condado, donde se enumeran los proyectos actuales de puentes y sus desvíos. Reporte un problema en un puente, como una baranda dañada o escombros, a Obras Públicas.",
+     "Para preguntas sobre un proyecto de puente específico, el Departamento de Ingeniería atiende al 856-307-6600. Los puentes en carreteras estatales son responsabilidad del DOT de New Jersey y no del condado."
     ],
     "contact": [
      {
       "label": "Obras Públicas",
       "value": "856-307-6400",
       "href": "tel:+18563076400"
+     },
+     {
+      "label": "Departamento de Ingeniería",
+      "value": "856-307-6600",
+      "href": "tel:+18563076600"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/487/Engineering",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -439,8 +498,8 @@
    "en": {
     "lead": "Gloucester County Parks and Recreation runs the county park system and its programs, and can be reached at 856-251-6710.",
     "details": [
-     "County parks include James G. Atkinson Park in Sewell, Scotland Run Park and Red Bank Battlefield Park. The department runs nature programs, events, camps and sports at county parks.",
-     "The Parks and Recreation office is at James G. Atkinson Park, 138 Bethel Mill Road, Sewell, NJ 08080. Town parks and town recreation leagues are run by your municipality instead."
+     "The county has four parks: James G. Atkinson Park in Sewell, a 66 acre recreation area; Scotland Run Park, the largest at more than 1,300 acres; Red Bank Battlefield Park; and Greenwich Lake Park. The department runs nature programs, events, camps and sports leagues at county parks.",
+     "The Parks and Recreation office is at James G. Atkinson Park, 138 Bethel Mill Road, Sewell, NJ 08080, open Monday to Friday, 8:30 AM to 4:30 PM. The rainout line for programs and fields is 856-251-6740. Town parks and town recreation leagues are run by your municipality instead."
     ],
     "contact": [
      {
@@ -449,22 +508,32 @@
       "href": "tel:+18562516710"
      },
      {
+      "label": "Parks rainout line",
+      "value": "856-251-6740",
+      "href": "tel:+18562516740"
+     },
+     {
       "label": "Parks and Recreation Office",
       "value": "James G. Atkinson Park, 138 Bethel Mill Rd, Sewell, NJ 08080"
      }
     ]
    },
    "es": {
-    "lead": "Parques y Recreación del Condado de Gloucester administra el sistema de parques del condado y sus programas, y puede llamar al 856-251-6710.",
+    "lead": "Parques y Recreación del Condado de Gloucester administra el sistema de parques del condado y sus programas, y atiende al 856-251-6710.",
     "details": [
-     "Los parques del condado incluyen James G. Atkinson Park en Sewell, Scotland Run Park y Red Bank Battlefield Park. El departamento organiza programas de naturaleza, eventos, campamentos y deportes en los parques del condado.",
-     "La oficina de Parques y Recreación está en James G. Atkinson Park, 138 Bethel Mill Road, Sewell, NJ 08080. Los parques y ligas de recreación de su pueblo los administra su municipio."
+     "El condado tiene cuatro parques: James G. Atkinson Park en Sewell, un área recreativa de 66 acres; Scotland Run Park, el más grande con más de 1,300 acres; Red Bank Battlefield Park; y Greenwich Lake Park. El departamento ofrece programas de naturaleza, eventos, campamentos y ligas deportivas en los parques del condado.",
+     "La oficina de Parques y Recreación está en James G. Atkinson Park, 138 Bethel Mill Road, Sewell, NJ 08080, abierta de lunes a viernes, de 8:30 AM a 4:30 PM. La línea de cancelaciones por lluvia para programas y campos es 856-251-6740. Los parques y ligas recreativas de los pueblos los administra su municipio."
     ],
     "contact": [
      {
       "label": "Parques y Recreación",
       "value": "856-251-6710",
       "href": "tel:+18562516710"
+     },
+     {
+      "label": "Línea de cancelaciones por lluvia",
+      "value": "856-251-6740",
+      "href": "tel:+18562516740"
      },
      {
       "label": "Oficina de Parques y Recreación",
@@ -496,10 +565,10 @@
     ]
    },
    "en": {
-    "lead": "Pavilion reservations and permits for county parks are handled by Gloucester County Parks and Recreation.",
+    "lead": "Pavilion reservations and permits for county parks are handled by Gloucester County Parks and Recreation, online or by phone.",
     "details": [
-     "Call Parks and Recreation with the park, the date and the size of your group. Fees and rules depend on the park and the facility, and popular dates fill early in the season.",
-     "Permits for town parks come from your municipality, not the county."
+     "Reservations open on the first working day in January for that same year only, and a reservation must be made at least 3 days ahead. You can reserve online through the county's reservation catalog, which requires an account, or by calling Parks and Recreation at 856-251-6710.",
+     "The Atkinson Park pavilion holds up to 100 people, with 12 tables, charcoal grills and electric. The Scotland Run Park pavilion holds up to 65 people, with 8 tables and grills and no electric. County parks cannot be closed off for private events. Permits for town parks come from your municipality, not the county."
     ],
     "contact": [
      {
@@ -510,10 +579,10 @@
     ]
    },
    "es": {
-    "lead": "Las reservaciones de pabellones y los permisos para los parques del condado los tramita Parques y Recreación del Condado de Gloucester.",
+    "lead": "Las reservas de pabellones y los permisos para los parques del condado los atiende Parques y Recreación del Condado de Gloucester, en línea o por teléfono.",
     "details": [
-     "Llame a Parques y Recreación indicando el parque, la fecha y el tamaño de su grupo. Los costos y las reglas dependen del parque y de la instalación, y las fechas más pedidas se llenan temprano en la temporada.",
-     "Los permisos para los parques de su pueblo los da su municipio, no el condado."
+     "Las reservas abren el primer día laborable de enero solo para ese mismo año, y deben hacerse con al menos 3 días de anticipación. Puede reservar en línea a través del catálogo de reservas del condado, que requiere una cuenta, o llamando a Parques y Recreación al 856-251-6710.",
+     "El pabellón de Atkinson Park tiene capacidad para hasta 100 personas, con 12 mesas, parrillas de carbón y electricidad. El pabellón de Scotland Run Park tiene capacidad para hasta 65 personas, con 8 mesas y parrillas y sin electricidad. Los parques del condado no pueden cerrarse para eventos privados. Los permisos para parques de los pueblos se obtienen en su municipio, no en el condado."
     ],
     "contact": [
      {
@@ -523,7 +592,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/646/Parks-Recreation",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -543,44 +612,42 @@
     ]
    },
    "en": {
-    "lead": "Pitman Golf Course is the Gloucester County owned golf course, and tee times are booked through the course.",
+    "lead": "Pitman Golf Course is Gloucester County's public golf course, at 501 Pitman Road in Sewell, and tee times are booked through the course.",
     "details": [
-     "The course is a county facility overseen through the Parks liaison. For tee times, rates and outings, contact the course pro shop directly or start with Parks and Recreation, which can connect you.",
-     "Course conditions and seasonal hours change, so confirm them with the course before you go."
+     "Tee times can be reserved online through the course website up to seven days in advance; the tee sheet opens at 6:00 AM. Reservations must be cancelled or changed at least 24 hours ahead. The pro shop is open 7:45 AM to 4:00 PM and the course is open 8:00 AM to sunset, weather permitting.",
+     "A county Discount Golf Card costs $50 a year for county residents and $100 for non-residents. Rates, outings and course conditions are posted on the course website, pitmangolfcourse.com."
     ],
     "contact": [
      {
-      "label": "Parks and Recreation",
-      "value": "856-251-6710",
-      "href": "tel:+18562516710"
+      "label": "Pitman Golf Course Pro Shop",
+      "value": "856-589-6688",
+      "href": "tel:+18565896688"
      },
      {
-      "label": "Gloucester County main number",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "Pitman Golf Course",
+      "value": "501 Pitman Road, Sewell, NJ 08080"
      }
     ]
    },
    "es": {
-    "lead": "Pitman Golf Course es el campo de golf propiedad del Condado de Gloucester, y las salidas se reservan a través del campo.",
+    "lead": "Pitman Golf Course es el campo de golf público del Condado de Gloucester, en 501 Pitman Road en Sewell, y los horarios de salida se reservan a través del campo.",
     "details": [
-     "El campo es una instalación del condado supervisada a través del enlace de Parques. Para salidas, tarifas y eventos, contacte directamente la tienda del campo o empiece con Parques y Recreación, que puede comunicarle.",
-     "Las condiciones del campo y el horario de temporada cambian, así que confírmelos con el campo antes de ir."
+     "Los horarios de salida pueden reservarse en línea a través del sitio web del campo hasta con siete días de anticipación; la planilla de salidas abre a las 6:00 AM. Las reservas deben cancelarse o cambiarse con al menos 24 horas de anticipación. La tienda profesional abre de 7:45 AM a 4:00 PM y el campo de 8:00 AM hasta el atardecer, si el clima lo permite.",
+     "Una tarjeta Discount Golf Card del condado cuesta $50 al año para residentes del condado y $100 para no residentes. Las tarifas, los eventos y el estado del campo se publican en el sitio web del campo, pitmangolfcourse.com."
     ],
     "contact": [
      {
-      "label": "Parques y Recreación",
-      "value": "856-251-6710",
-      "href": "tel:+18562516710"
+      "label": "Tienda profesional de Pitman Golf Course",
+      "value": "856-589-6688",
+      "href": "tel:+18565896688"
      },
      {
-      "label": "Número principal del Condado de Gloucester",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "Pitman Golf Course",
+      "value": "501 Pitman Road, Sewell, NJ 08080"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/654/County-Parks-Golf-Course",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -604,8 +671,8 @@
    "en": {
     "lead": "The Gloucester County Office of Veterans Affairs helps county veterans and their families with benefits and services, at 856-401-7660.",
     "details": [
-     "Veterans Affairs can help you understand and file for federal and state veterans benefits, connect you with the VA, and point you to county veterans programs and events.",
-     "You can also email the office at vets@co.gloucester.nj.us. Federal VA claims are decided by the U.S. Department of Veterans Affairs, and the county office helps you prepare and follow up."
+     "The office is at 211 County House Road, Sewell, NJ 08080, open Monday to Friday, 8:00 AM to 4:00 PM. Services include help with compensation and pension claims, disability claims, VA home loans, burial benefits, education benefits and Aid and Attendance, plus transportation to VA medical centers.",
+     "You can also email the office at vets@co.gloucester.nj.us. The county office works with the U.S. Department of Veterans Affairs and helps you prepare and file your claim. The Gloucester County Veterans Memorial Cemetery can be reached at 856-401-7688."
     ],
     "contact": [
      {
@@ -617,14 +684,19 @@
       "label": "Veterans Affairs email",
       "value": "vets@co.gloucester.nj.us",
       "href": "mailto:vets@co.gloucester.nj.us"
+     },
+     {
+      "label": "Veterans Memorial Cemetery",
+      "value": "856-401-7688",
+      "href": "tel:+18564017688"
      }
     ]
    },
    "es": {
     "lead": "La Oficina de Asuntos de Veteranos del Condado de Gloucester ayuda a los veteranos del condado y a sus familias con beneficios y servicios, al 856-401-7660.",
     "details": [
-     "Asuntos de Veteranos puede ayudarle a entender y solicitar beneficios federales y estatales para veteranos, comunicarle con el VA y orientarle sobre programas y eventos del condado para veteranos.",
-     "También puede escribir a la oficina a vets@co.gloucester.nj.us. Las reclamaciones federales las decide el Departamento de Asuntos de Veteranos de los Estados Unidos, y la oficina del condado le ayuda a prepararlas y darles seguimiento."
+     "La oficina está en 211 County House Road, Sewell, NJ 08080, abierta de lunes a viernes, de 8:00 AM a 4:00 PM. Los servicios incluyen ayuda con reclamos de compensación y pensión, reclamos por discapacidad, préstamos hipotecarios de VA, beneficios de entierro, beneficios de educación y Aid and Attendance, además de transporte a centros médicos de VA.",
+     "También puede escribir a la oficina a vets@co.gloucester.nj.us. La oficina del condado trabaja con el Departamento de Asuntos de Veteranos de EE. UU. y le ayuda a preparar y presentar su reclamo. El Cementerio Memorial de Veteranos del Condado de Gloucester atiende al 856-401-7688."
     ],
     "contact": [
      {
@@ -636,6 +708,11 @@
       "label": "Correo de Asuntos de Veteranos",
       "value": "vets@co.gloucester.nj.us",
       "href": "mailto:vets@co.gloucester.nj.us"
+     },
+     {
+      "label": "Cementerio Memorial de Veteranos",
+      "value": "856-401-7688",
+      "href": "tel:+18564017688"
      }
     ]
    },
@@ -660,34 +737,54 @@
     ]
    },
    "en": {
-    "lead": "Gloucester County issues a Veteran Photo Identification Card to honorably discharged county veterans, free of charge, through Veterans Affairs.",
+    "lead": "The free Gloucester County veteran photo ID card is issued by the County Clerk's Office, not by Veterans Affairs.",
     "details": [
-     "The card records your discharge information and branch of service and is accepted as proof of veteran status for many discounts and programs. Bring your discharge papers, such as a DD-214, when you apply.",
-     "A county veteran ID is not a federal VA health card and does not replace a state driver license or ID."
+     "To get the card, take your original or certified DD-214 to the County Clerk's Office or to a County Store. The card is free, and you show it to receive veterans discounts at participating businesses.",
+     "The County Clerk will also record your honorable discharge (DD-214) free of charge, make a copy for your records, and return your original to you."
     ],
     "contact": [
      {
-      "label": "Veterans Affairs",
-      "value": "856-401-7660",
-      "href": "tel:+18564017660"
+      "label": "County Clerk, James N. Hogan",
+      "value": "856-853-3237",
+      "href": "tel:+18568533237"
+     },
+     {
+      "label": "County Store, Woodbury",
+      "value": "856-853-3290",
+      "href": "tel:+18568533290"
+     },
+     {
+      "label": "County Store, Clayton",
+      "value": "856-881-0462",
+      "href": "tel:+18568810462"
      }
     ]
    },
    "es": {
-    "lead": "El Condado de Gloucester emite una Tarjeta de Identificación con Foto de Veterano para los veteranos del condado dados de baja honorablemente, sin costo, a través de Asuntos de Veteranos.",
+    "lead": "La tarjeta de identificación con foto para veteranos del Condado de Gloucester, que es gratis, la emite la Oficina del Secretario del Condado, no Asuntos de Veteranos.",
     "details": [
-     "La tarjeta registra los datos de su baja y su rama de servicio y se acepta como prueba de condición de veterano para muchos descuentos y programas. Lleve sus documentos de baja, como el DD-214, cuando la solicite.",
-     "Una identificación de veterano del condado no es una tarjeta de salud federal del VA y no reemplaza una licencia de conducir o identificación estatal."
+     "Para obtener la tarjeta, lleve su DD-214 original o certificado a la Oficina del Secretario del Condado o a una Tienda del Condado. La tarjeta es gratis y se presenta para recibir descuentos para veteranos en los negocios participantes.",
+     "El Secretario del Condado también registrará su baja honorable (DD-214) sin costo, hará una copia para sus registros y le devolverá su original."
     ],
     "contact": [
      {
-      "label": "Asuntos de Veteranos",
-      "value": "856-401-7660",
-      "href": "tel:+18564017660"
+      "label": "Secretario del Condado, James N. Hogan",
+      "value": "856-853-3237",
+      "href": "tel:+18568533237"
+     },
+     {
+      "label": "Tienda del Condado, Woodbury",
+      "value": "856-853-3290",
+      "href": "tel:+18568533290"
+     },
+     {
+      "label": "Tienda del Condado, Clayton",
+      "value": "856-881-0462",
+      "href": "tel:+18568810462"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/464/Veterans-Services",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -712,8 +809,8 @@
    "en": {
     "lead": "The Gloucester County Division of Senior Services serves county residents age 60 and older and can be reached at 856-384-6900.",
     "details": [
-     "Senior Services is at 115 Budd Boulevard, West Deptford, NJ 08096, and can connect you with meals, caregiver support, benefits counseling and senior programs across the county.",
-     "You can also email seniors@co.gloucester.nj.us. Town senior centers run many daily activities, and Senior Services can tell you what your town offers."
+     "Senior Services is at 115 Budd Boulevard, West Deptford, NJ 08096, open Monday to Friday, 8:30 AM to 4:00 PM; appointments are recommended. The division is the county's Aging and Disability Resource Connection (ADRC) lead agency, connecting older adults and caregivers with long term care, community programs and benefits. The ADRC information and assistance line is 877-222-3737, and you can also email seniors@co.gloucester.nj.us.",
+     "The county Nutrition Program serves a midday meal to residents age 60 and older, Monday to Friday, at lunch sites across the county, with a suggested voluntary donation of $1.25 per meal, and runs a Serv-a-Tray home delivered meal program. If you are facing food insecurity, call 856-384-6900 and ask for an Information and Assistance specialist."
     ],
     "contact": [
      {
@@ -725,14 +822,19 @@
       "label": "Senior Services email",
       "value": "seniors@co.gloucester.nj.us",
       "href": "mailto:seniors@co.gloucester.nj.us"
+     },
+     {
+      "label": "ADRC information line",
+      "value": "877-222-3737",
+      "href": "tel:+18772223737"
      }
     ]
    },
    "es": {
-    "lead": "La División de Servicios para Personas Mayores del Condado de Gloucester atiende a los residentes del condado de 60 años o más y puede llamar al 856-384-6900.",
+    "lead": "La División de Servicios para Personas Mayores del Condado de Gloucester sirve a residentes del condado de 60 años o más y atiende al 856-384-6900.",
     "details": [
-     "Servicios para Personas Mayores está en 115 Budd Boulevard, West Deptford, NJ 08096, y puede comunicarle con comidas, apoyo para cuidadores, orientación sobre beneficios y programas para personas mayores en todo el condado.",
-     "También puede escribir a seniors@co.gloucester.nj.us. Los centros para personas mayores de cada pueblo organizan muchas actividades diarias, y Servicios para Personas Mayores puede decirle qué ofrece su pueblo."
+     "Servicios para Personas Mayores está en 115 Budd Boulevard, West Deptford, NJ 08096, abierto de lunes a viernes, de 8:30 AM a 4:00 PM; se recomiendan citas. La división es la agencia principal del condado de la Conexión de Recursos para el Envejecimiento y la Discapacidad (ADRC), que conecta a adultos mayores y cuidadores con cuidado a largo plazo, programas comunitarios y beneficios. La línea de información y asistencia del ADRC es 877-222-3737, y también puede escribir a seniors@co.gloucester.nj.us.",
+     "El Programa de Nutrición del condado sirve una comida del mediodía a residentes de 60 años o más, de lunes a viernes, en sitios de almuerzo en todo el condado, con una donación voluntaria sugerida de $1.25 por comida, y opera un programa de comidas a domicilio Serv-a-Tray. Si enfrenta inseguridad alimentaria, llame al 856-384-6900 y pida un especialista de Información y Asistencia."
     ],
     "contact": [
      {
@@ -744,10 +846,15 @@
       "label": "Correo de Servicios para Personas Mayores",
       "value": "seniors@co.gloucester.nj.us",
       "href": "mailto:seniors@co.gloucester.nj.us"
+     },
+     {
+      "label": "Línea de información del ADRC",
+      "value": "877-222-3737",
+      "href": "tel:+18772223737"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/303/Seniors",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -759,7 +866,11 @@
      "county transportation",
      "medical transportation",
      "senior bus",
-     "transportation for disabled residents"
+     "transportation for disabled residents",
+     "schedule a senior ride",
+     "book a senior ride",
+     "senior ride",
+     "ride to a doctor appointment"
     ],
     "es": [
      "transporte para personas mayores",
@@ -767,48 +878,51 @@
      "transporte del condado",
      "transporte medico",
      "autobus para personas mayores",
-     "transporte para residentes discapacitados"
+     "transporte para residentes discapacitados",
+     "programar un viaje para personas mayores",
+     "reservar un viaje",
+     "viaje al medico"
     ]
    },
    "en": {
-    "lead": "Gloucester County runs transportation services for seniors and residents with disabilities through its transportation programs, coordinated with Senior Services.",
+    "lead": "Gloucester County's Division of Transportation Services provides rides for residents who are 60 or older, have a documented disability, are veterans, or are low income residents.",
     "details": [
-     "Rides are commonly used for medical appointments, shopping and senior programs, and they usually must be scheduled in advance. Senior Services can explain eligibility, service areas and how far ahead to book.",
-     "This county service is separate from NJ Transit. For an urgent medical emergency, always call 911 rather than booking a ride."
+     "Rides are mainly for medical appointments, adult day care, senior centers and shopping, and advance reservations are required: rides are pre-scheduled and can be booked up to two weeks ahead. A wheelchair van service is available for low income residents with a physician's order for wheelchair accessible transportation.",
+     "For information call the Division of Transportation Services at 856-686-8355, Monday to Friday, 8:00 AM to 4:00 PM. To schedule a ride, call the dispatcher at 856-227-7392. For an urgent medical emergency, always call 911 rather than booking a ride."
     ],
     "contact": [
      {
-      "label": "Senior Services",
-      "value": "856-384-6900",
-      "href": "tel:+18563846900"
+      "label": "Transportation Services information",
+      "value": "856-686-8355",
+      "href": "tel:+18566868355"
      },
      {
-      "label": "Gloucester County main number",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "Transportation scheduling and dispatcher",
+      "value": "856-227-7392",
+      "href": "tel:+18562277392"
      }
     ]
    },
    "es": {
-    "lead": "El Condado de Gloucester ofrece servicios de transporte para personas mayores y residentes con discapacidades a través de sus programas de transporte, coordinados con Servicios para Personas Mayores.",
+    "lead": "La División de Servicios de Transporte del Condado de Gloucester ofrece viajes a residentes de 60 años o más, con una discapacidad documentada, veteranos o residentes de bajos ingresos.",
     "details": [
-     "Los viajes se usan comúnmente para citas médicas, compras y programas para personas mayores, y por lo general deben programarse con anticipación. Servicios para Personas Mayores puede explicar la elegibilidad, las áreas de servicio y con cuánta anticipación reservar.",
-     "Este servicio del condado es distinto de NJ Transit. Para una emergencia médica urgente, llame siempre al 911 en lugar de reservar un viaje."
+     "Los viajes son principalmente para citas médicas, cuidado diurno de adultos, centros para personas mayores y compras, y se requiere reservación previa: los viajes se programan por adelantado y pueden reservarse hasta con dos semanas de anticipación. Hay un servicio de furgoneta para sillas de ruedas para residentes de bajos ingresos con una orden médica de transporte accesible.",
+     "Para información llame a la División de Servicios de Transporte al 856-686-8355, de lunes a viernes, de 8:00 AM a 4:00 PM. Para programar un viaje, llame al despachador al 856-227-7392. Para una emergencia médica urgente, llame siempre al 911 en lugar de reservar un viaje."
     ],
     "contact": [
      {
-      "label": "Servicios para Personas Mayores",
-      "value": "856-384-6900",
-      "href": "tel:+18563846900"
+      "label": "Información de Servicios de Transporte",
+      "value": "856-686-8355",
+      "href": "tel:+18566868355"
      },
      {
-      "label": "Número principal del Condado de Gloucester",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "Programación y despachador de transporte",
+      "value": "856-227-7392",
+      "href": "tel:+18562277392"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/706/Transportation",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -834,32 +948,42 @@
    "en": {
     "lead": "The Gloucester County Department of Health runs county public health programs and clinics, at 856-218-4101.",
     "details": [
-     "The department handles health screenings, immunizations, communicable disease follow up and health education for county residents. Clinic schedules change, so call ahead to confirm times and eligibility.",
-     "The Health Department also handles environmental health questions. Food establishment inspections and septic questions may involve your town as well, and the department can route you."
+     "The department is at 204 East Holly Avenue, Sewell, NJ 08080. It provides health screenings, immunizations, communicable disease follow up and health education, and most programs are provided to county residents at no charge. Its community nursing program specializes in children from 2 months to 19 years, and children without insurance receive free vaccinations. Two mobile health outreach vans also bring screenings, education and vaccinations into the community.",
+     "To report a communicable disease during business hours, Monday to Friday, 8:30 AM to 4:30 PM, call 856-218-4101; after hours, call 856-589-0911. Nursing Services can also be reached directly at 856-218-4102. The department also handles environmental health questions."
     ],
     "contact": [
      {
       "label": "Department of Health",
       "value": "856-218-4101",
       "href": "tel:+18562184101"
+     },
+     {
+      "label": "Nursing Services",
+      "value": "856-218-4102",
+      "href": "tel:+18562184102"
      }
     ]
    },
    "es": {
     "lead": "El Departamento de Salud del Condado de Gloucester administra los programas y clínicas de salud pública del condado, al 856-218-4101.",
     "details": [
-     "El departamento se encarga de exámenes de salud, vacunas, seguimiento de enfermedades contagiosas y educación de salud para los residentes del condado. Los horarios de las clínicas cambian, así que llame antes para confirmar horarios y elegibilidad.",
-     "El Departamento de Salud también atiende preguntas de salud ambiental. Las inspecciones de establecimientos de comida y las preguntas sobre pozos sépticos pueden involucrar también a su pueblo, y el departamento puede orientarle."
+     "El departamento está en 204 East Holly Avenue, Sewell, NJ 08080. Ofrece exámenes de salud, vacunas, seguimiento de enfermedades transmisibles y educación para la salud, y la mayoría de los programas son gratuitos para los residentes del condado. Su programa de enfermería comunitaria se especializa en niños de 2 meses a 19 años, y los niños sin seguro reciben vacunas gratis. Dos furgonetas móviles de salud también llevan exámenes, educación y vacunas a la comunidad.",
+     "Para reportar una enfermedad transmisible en horario de oficina, de lunes a viernes, de 8:30 AM a 4:30 PM, llame al 856-218-4101; fuera de ese horario, llame al 856-589-0911. Servicios de Enfermería también atiende directamente al 856-218-4102. El departamento también atiende preguntas de salud ambiental."
     ],
     "contact": [
      {
       "label": "Departamento de Salud",
       "value": "856-218-4101",
       "href": "tel:+18562184101"
+     },
+     {
+      "label": "Servicios de Enfermería",
+      "value": "856-218-4102",
+      "href": "tel:+18562184102"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/1135/Department-of-Health",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -879,34 +1003,44 @@
     ]
    },
    "en": {
-    "lead": "WIC, the nutrition program for women, infants and children, is offered in Gloucester County through the Department of Health.",
+    "lead": "WIC, the free nutrition program for women, infants and children, has its own Gloucester County line at 856-218-4116.",
     "details": [
-     "WIC provides healthy food benefits, nutrition education and breastfeeding support to eligible pregnant and postpartum women, infants and young children. Eligibility is based on income and nutritional need.",
-     "Call the Department of Health to find the nearest WIC site and what documents to bring to your first appointment."
+     "WIC serves pregnant women, breastfeeding women up to one year after the baby is born, non-breastfeeding women up to six months after the birth, infants up to age 1, and children up to age 5. Eligibility is based on gross income at or below 185 percent of the federal poverty guidelines and nutritional risk; if you receive Medicaid, SNAP or TANF you may already be income eligible. WIC provides healthy foods, nutrition education and breastfeeding support at no charge.",
+     "Bring proof of identity for each person applying, proof of address, proof of income, and immunization records for infants and children, and every household member applying must be present. The West Deptford office, 115 Budd Boulevard, is open Tuesday to Friday, 8:30 AM to 4:30 PM (phone 856-423-7160). The Monroe Township office, 125 Virginia Avenue, Williamstown, is open Mondays only, by appointment."
     ],
     "contact": [
      {
-      "label": "Department of Health",
-      "value": "856-218-4101",
-      "href": "tel:+18562184101"
+      "label": "WIC",
+      "value": "856-218-4116",
+      "href": "tel:+18562184116"
+     },
+     {
+      "label": "WIC West Deptford office",
+      "value": "856-423-7160",
+      "href": "tel:+18564237160"
      }
     ]
    },
    "es": {
-    "lead": "WIC, el programa de nutrición para mujeres, bebés y niños, se ofrece en el Condado de Gloucester a través del Departamento de Salud.",
+    "lead": "WIC, el programa gratuito de nutrición para mujeres, bebés y niños, tiene su propia línea en el Condado de Gloucester al 856-218-4116.",
     "details": [
-     "WIC brinda beneficios de alimentos saludables, educación sobre nutrición y apoyo para la lactancia a mujeres embarazadas y en posparto, bebés y niños pequeños que sean elegibles. La elegibilidad se basa en los ingresos y la necesidad nutricional.",
-     "Llame al Departamento de Salud para encontrar el sitio de WIC más cercano y saber qué documentos llevar a su primera cita."
+     "WIC sirve a mujeres embarazadas, mujeres que amamantan hasta un año después del nacimiento, mujeres que no amamantan hasta seis meses después del parto, bebés hasta 1 año y niños hasta los 5 años. La elegibilidad se basa en un ingreso bruto igual o inferior al 185 por ciento de las pautas federales de pobreza y en el riesgo nutricional; si recibe Medicaid, SNAP o TANF, es posible que ya sea elegible por ingresos. WIC ofrece alimentos saludables, educación nutricional y apoyo para la lactancia sin costo.",
+     "Traiga una identificación por cada persona que solicita, un comprobante de domicilio, un comprobante de ingresos y los registros de vacunas de bebés y niños, y todos los miembros del hogar que solicitan deben estar presentes. La oficina de West Deptford, 115 Budd Boulevard, abre de martes a viernes, de 8:30 AM a 4:30 PM (teléfono 856-423-7160). La oficina de Monroe Township, 125 Virginia Avenue, Williamstown, abre solo los lunes, con cita."
     ],
     "contact": [
      {
-      "label": "Departamento de Salud",
-      "value": "856-218-4101",
-      "href": "tel:+18562184101"
+      "label": "WIC",
+      "value": "856-218-4116",
+      "href": "tel:+18562184116"
+     },
+     {
+      "label": "Oficina de WIC en West Deptford",
+      "value": "856-423-7160",
+      "href": "tel:+18564237160"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/669/Women-Infants-Children-WIC",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -934,32 +1068,42 @@
    "en": {
     "lead": "The Gloucester County Division of Social Services administers benefit programs like SNAP food assistance and can be reached at 856-582-9200.",
     "details": [
-     "Social Services handles applications for SNAP, cash assistance programs and county administered health coverage help, and can explain what documents you need and how renewals work.",
-     "You can also apply for many New Jersey benefits online through NJHelps, a state site. In a crisis involving a child, call the state child abuse hotline at 1-877-652-2873, and in any emergency call 911."
+     "The office is at 400 Hollydell Drive, Sewell, NJ 08080. In person hours are Monday to Friday, 8:30 AM to 3:30 PM, and phone hours are 8:00 AM to 4:30 PM; the TTY number is 856-582-2337. You can start an application online on the county website, but if you are found eligible you will still need a face to face interview at the agency.",
+     "Program lines: Food Stamps (SNAP) and cash assistance, 856-256-2195; ABD Medicaid, 856-256-2187; ACA Medicaid, 856-256-2850; Adult Protective Services, 856-256-2113. In a crisis involving a child, call the state child abuse hotline at 1-877-652-2873, and in any emergency call 911."
     ],
     "contact": [
      {
       "label": "Division of Social Services",
       "value": "856-582-9200",
       "href": "tel:+18565829200"
+     },
+     {
+      "label": "SNAP and cash assistance",
+      "value": "856-256-2195",
+      "href": "tel:+18562562195"
      }
     ]
    },
    "es": {
-    "lead": "La División de Servicios Sociales del Condado de Gloucester administra programas de beneficios como la ayuda de alimentos SNAP y puede llamar al 856-582-9200.",
+    "lead": "La División de Servicios Sociales del Condado de Gloucester administra programas de beneficios como la asistencia alimentaria SNAP y atiende al 856-582-9200.",
     "details": [
-     "Servicios Sociales tramita solicitudes de SNAP, programas de asistencia en efectivo y ayuda con cobertura de salud administrada por el condado, y puede explicar qué documentos necesita y cómo funcionan las renovaciones.",
-     "También puede solicitar muchos beneficios de New Jersey en línea a través de NJHelps, un sitio estatal. En una crisis que involucre a un niño, llame a la línea estatal de abuso infantil al 1-877-652-2873, y en cualquier emergencia llame al 911."
+     "La oficina está en 400 Hollydell Drive, Sewell, NJ 08080. El horario en persona es de lunes a viernes, de 8:30 AM a 3:30 PM, y el horario telefónico es de 8:00 AM a 4:30 PM; el número TTY es 856-582-2337. Puede iniciar una solicitud en línea en el sitio web del condado, pero si resulta elegible aún necesitará una entrevista en persona en la agencia.",
+     "Líneas por programa: Cupones de alimentos (SNAP) y asistencia en efectivo, 856-256-2195; Medicaid ABD, 856-256-2187; Medicaid ACA, 856-256-2850; Servicios de Protección de Adultos, 856-256-2113. En una crisis que involucre a un niño, llame a la línea estatal de abuso infantil al 1-877-652-2873, y en cualquier emergencia llame al 911."
     ],
     "contact": [
      {
       "label": "División de Servicios Sociales",
       "value": "856-582-9200",
       "href": "tel:+18565829200"
+     },
+     {
+      "label": "SNAP y asistencia en efectivo",
+      "value": "856-256-2195",
+      "href": "tel:+18562562195"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/510/Social-Services",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -981,10 +1125,10 @@
     ]
    },
    "en": {
-    "lead": "Gloucester County Disability Services and the county ADA Coordinator can be reached at 856-384-6842.",
+    "lead": "Gloucester County's Division of Human and Disability Services, and the county ADA Coordinator, Lisa Cerny, can be reached at 856-384-6842.",
     "details": [
-     "The office connects residents with disabilities to county programs, advises county departments on accessibility, and takes questions about access to county buildings, programs and meetings.",
-     "Requests for an accommodation at a county meeting should go to this office as early as possible so arrangements can be made."
+     "The office is at 204 East Holly Avenue, Sewell, NJ 08080, open Monday to Friday, 8:30 AM to 4:30 PM. It offers ADA advocacy, barrier free information and consumer education, and as an Aging and Disability Resource Connection (ADRC) agency it connects residents with disabilities age 18 to 59 with services for independent living. You can also reach the office through New Jersey Relay Service at 711.",
+     "If you need an auxiliary aid, a sign language interpreter or another accommodation to take part in a county program or meeting, contact the ADA Coordinator as soon as possible and no later than 48 hours before the event. The county does not charge the individual for the cost of an accommodation."
     ],
     "contact": [
      {
@@ -995,20 +1139,20 @@
     ]
    },
    "es": {
-    "lead": "Servicios para Discapacitados del Condado de Gloucester y el Coordinador ADA del condado atienden al 856-384-6842.",
+    "lead": "La División de Servicios Humanos y de Discapacidad del Condado de Gloucester, y la Coordinadora de ADA del condado, Lisa Cerny, atienden al 856-384-6842.",
     "details": [
-     "La oficina comunica a los residentes con discapacidades con los programas del condado, asesora a los departamentos del condado sobre accesibilidad y responde preguntas sobre el acceso a edificios, programas y reuniones del condado.",
-     "Las solicitudes de una adaptación en una reunión del condado deben enviarse a esta oficina lo antes posible para poder hacer los arreglos."
+     "La oficina está en 204 East Holly Avenue, Sewell, NJ 08080, abierta de lunes a viernes, de 8:30 AM a 4:30 PM. Ofrece defensa de la ADA, información sobre accesibilidad y educación al consumidor, y como agencia de la Conexión de Recursos para el Envejecimiento y la Discapacidad (ADRC) conecta a residentes con discapacidades de 18 a 59 años con servicios para una vida independiente. También puede comunicarse a través del Servicio de Retransmisión de New Jersey al 711.",
+     "Si necesita una ayuda auxiliar, un intérprete de lenguaje de señas u otra adaptación para participar en un programa o reunión del condado, contacte a la Coordinadora de ADA lo antes posible y a más tardar 48 horas antes del evento. El condado no cobra a la persona el costo de la adaptación."
     ],
     "contact": [
      {
-      "label": "Servicios para Discapacitados, Coordinador ADA",
+      "label": "Servicios de Discapacidad, Coordinadora de ADA",
       "value": "856-384-6842",
       "href": "tel:+18563846842"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/163/Human-Special-Services",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1033,6 +1177,7 @@
     "lead": "Voter registration in Gloucester County is handled by the Superintendent of Elections, at 856-384-4500.",
     "details": [
      "The Superintendent of Elections office is at 550 Grove Road, West Deptford, NJ 08066. Registration deadlines fall 21 days before an election in New Jersey, and the state voter portal at nj.gov can confirm your registration status.",
+     "You can register in person at the Superintendent's office, by mail, at your municipal clerk's office, or online through the state voter portal. If you registered without providing identification, you may be asked for ID the first time you vote; it does not have to be a photo ID.",
      "The County Clerk Election Division, 856-384-4530, handles vote by mail applications and ballots. Election results and polling place lookups are also posted on the county site."
     ],
     "contact": [
@@ -1049,10 +1194,11 @@
     ]
    },
    "es": {
-    "lead": "El registro de votantes en el Condado de Gloucester lo maneja el Superintendente de Elecciones, al 856-384-4500.",
+    "lead": "El registro de votantes en el Condado de Gloucester lo atiende el Superintendente de Elecciones, al 856-384-4500.",
     "details": [
-     "La oficina del Superintendente de Elecciones está en 550 Grove Road, West Deptford, NJ 08066. La fecha límite de registro es 21 días antes de una elección en New Jersey, y el portal estatal de votantes en nj.gov puede confirmar su estado de registro.",
-     "La División de Elecciones del Secretario del Condado, 856-384-4530, se encarga de las solicitudes y boletas de voto por correo. Los resultados electorales y la búsqueda de lugares de votación también se publican en el sitio del condado."
+     "La oficina del Superintendente de Elecciones está en 550 Grove Road, West Deptford, NJ 08066. Los plazos de registro vencen 21 días antes de una elección en New Jersey, y el portal estatal de votantes en nj.gov puede confirmar su estado de registro.",
+     "Puede registrarse en persona en la oficina del Superintendente, por correo, en la oficina del secretario de su municipio o en línea a través del portal estatal de votantes. Si se registró sin presentar identificación, es posible que le pidan una identificación la primera vez que vote; no tiene que ser una identificación con foto.",
+     "La División de Elecciones del Secretario del Condado, 856-384-4530, atiende las solicitudes y boletas de voto por correo. Los resultados electorales y la búsqueda de lugares de votación también se publican en el sitio del condado."
     ],
     "contact": [
      {
@@ -1067,7 +1213,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/184/Superintendent-of-Elections",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1093,8 +1239,8 @@
    "en": {
     "lead": "Vote by mail ballots in Gloucester County are issued by the County Clerk Election Division, at 856-384-4530.",
     "details": [
-     "You apply for a mail in ballot through the County Clerk, and completed ballots are returned to the Board of Elections, by mail, at a secure drop box, or in person. Deadlines are set by state election law for each election.",
-     "To find your polling place or early voting sites, use the county elections pages or the state voter portal. The Superintendent of Elections, 856-384-4500, can confirm your assigned polling place."
+     "You apply for a mail in ballot through the County Clerk. The application needs your original signature; copies cannot be accepted. Mail the application to the Gloucester County Clerk, PO Box 129, Woodbury, NJ 08096, or apply in person at the Election Division, 550 Grove Road, West Deptford. Applications by mail must arrive at least 7 days before the election, and in person applications are accepted until 3:00 PM on the day before the election.",
+     "Completed ballots are returned to the Board of Elections, by mail, at a secure drop box (17 sites across the county), or in person. To find your polling place or early voting sites, use the county elections pages or the state voter portal. The Superintendent of Elections, 856-384-4500, can confirm your assigned polling place."
     ],
     "contact": [
      {
@@ -1112,8 +1258,8 @@
    "es": {
     "lead": "Las boletas de voto por correo en el Condado de Gloucester las emite la División de Elecciones del Secretario del Condado, al 856-384-4530.",
     "details": [
-     "La boleta por correo se solicita a través del Secretario del Condado, y las boletas completadas se devuelven a la Junta de Elecciones, por correo, en un buzón seguro o en persona. Las fechas límite las fija la ley electoral estatal para cada elección.",
-     "Para encontrar su lugar de votación o los sitios de votación anticipada, use las páginas de elecciones del condado o el portal estatal de votantes. El Superintendente de Elecciones, 856-384-4500, puede confirmar su lugar de votación asignado."
+     "La boleta por correo se solicita a través del Secretario del Condado. La solicitud necesita su firma original; no se aceptan copias. Envíe la solicitud al Secretario del Condado de Gloucester, PO Box 129, Woodbury, NJ 08096, o solicítela en persona en la División de Elecciones, 550 Grove Road, West Deptford. Las solicitudes por correo deben llegar al menos 7 días antes de la elección, y las solicitudes en persona se aceptan hasta las 3:00 PM del día anterior a la elección.",
+     "Las boletas completadas se devuelven a la Junta de Elecciones, por correo, en un buzón seguro (17 sitios en todo el condado) o en persona. Para encontrar su lugar de votación o los sitios de votación anticipada, use las páginas de elecciones del condado o el portal estatal de votantes. El Superintendente de Elecciones, 856-384-4500, puede confirmar su lugar de votación asignado."
     ],
     "contact": [
      {
@@ -1128,7 +1274,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/400/Election-Division",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1154,8 +1300,9 @@
    "en": {
     "lead": "The Gloucester County Clerk, James N. Hogan, records deeds and land records for the county, at 856-853-3237.",
     "details": [
-     "The Clerk's office is at 1 North Broad Street, Woodbury, NJ 08096. It records deeds, mortgages and other land documents, and handles trade name registrations and notary commissions.",
-     "Property tax bills and payments belong to your municipal tax collector, not the County Clerk. The Clerk can tell you recording fees and how to search land records."
+     "The Clerk's office is at 1 North Broad Street, Woodbury, NJ 08096, open Monday to Friday, 8:30 AM to 4:00 PM. It records deeds, mortgages and other land documents, and handles trade name registrations and notary commissions.",
+     "Recording fees are $30 for the first page and $10 for each additional page. A trade name registration is $50 and a notary commission is $15. You can also search land records and print a copy of your deed free on the Clerk's online record search.",
+     "The Clerk's office does not accept cash: payment is by money order, check or credit card, and out of state checks are not accepted. Property tax bills and payments belong to your municipal tax collector, not the County Clerk."
     ],
     "contact": [
      {
@@ -1172,8 +1319,9 @@
    "es": {
     "lead": "El Secretario del Condado de Gloucester, James N. Hogan, registra las escrituras y los registros de tierras del condado, al 856-853-3237.",
     "details": [
-     "La oficina del Secretario está en 1 North Broad Street, Woodbury, NJ 08096. Registra escrituras, hipotecas y otros documentos de tierras, y tramita registros de nombres comerciales y comisiones de notario.",
-     "Las facturas y pagos de impuestos a la propiedad corresponden al recaudador de impuestos de su municipio, no al Secretario del Condado. El Secretario puede informarle los costos de registro y cómo buscar registros de tierras."
+     "La oficina del Secretario está en 1 North Broad Street, Woodbury, NJ 08096, abierta de lunes a viernes, de 8:30 AM a 4:00 PM. Registra escrituras, hipotecas y otros documentos de tierras, y atiende registros de nombres comerciales y comisiones de notario.",
+     "Las tarifas de registro son $30 por la primera página y $10 por cada página adicional. Un registro de nombre comercial cuesta $50 y una comisión de notario $15. También puede buscar registros de tierras e imprimir una copia de su escritura gratis en la búsqueda de registros en línea del Secretario.",
+     "La oficina del Secretario no acepta efectivo: el pago es con giro postal, cheque o tarjeta de crédito, y no se aceptan cheques de fuera del estado. Las facturas y pagos de impuestos a la propiedad corresponden al recaudador de impuestos de su municipio, no al Secretario del Condado."
     ],
     "contact": [
      {
@@ -1187,7 +1335,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/322/County-Clerk",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1197,44 +1345,72 @@
      "passport application",
      "get a passport",
      "passport appointment",
-     "renew a passport"
+     "renew a passport",
+     "apply for a passport",
+     "where can i apply for a passport",
+     "new passport"
     ],
     "es": [
      "solicitud de pasaporte",
      "obtener un pasaporte",
      "cita para pasaporte",
-     "renovar un pasaporte"
+     "renovar un pasaporte",
+     "solicitar un pasaporte",
+     "donde puedo solicitar un pasaporte",
+     "pasaporte nuevo"
     ]
    },
    "en": {
-    "lead": "Passport applications are accepted by the Gloucester County Clerk as a passport acceptance facility.",
+    "lead": "The Gloucester County Clerk accepts passport applications at two locations, the County Courthouse in Woodbury and the County Store at Deptford Mall.",
     "details": [
-     "First time applicants apply in person with proof of citizenship, a photo ID and a passport photo. Fees are set by the U.S. Department of State and paid as the Clerk directs.",
-     "Most adult renewals are done by mail directly with the U.S. Department of State rather than at the Clerk's office. Call the County Clerk before you visit to confirm hours and what to bring."
+     "Both locations are open Monday to Friday, 8:30 AM to 4:00 PM. All applicants must apply in person. Bring a birth certificate listing both parents (hospital issued certificates are not accepted) or other proof of citizenship, a valid photo ID, and a 2x2 passport photo. The application must be filled out in black ink and left unsigned.",
+     "The $35 acceptance fee per applicant is paid to the Gloucester County Clerk. The U.S. Department of State application fee is paid separately by check or money order made payable to the U.S. Department of State, which does not accept cash. Passport photos are $5 per person, $10 per family, and free for children age 5 and under. Processing takes about 4 to 6 weeks.",
+     "Renewals are handled by the U.S. Department of State rather than the Clerk's office. Check travel.state.gov to see whether you can renew by mail."
     ],
     "contact": [
+     {
+      "label": "Passport office",
+      "value": "856-853-3235",
+      "href": "tel:+18568533235"
+     },
      {
       "label": "County Clerk, James N. Hogan",
       "value": "856-853-3237",
       "href": "tel:+18568533237"
+     },
+     {
+      "label": "U.S. Department of State passports",
+      "value": "travel.state.gov",
+      "href": "https://travel.state.gov"
      }
     ]
    },
    "es": {
-    "lead": "Las solicitudes de pasaporte las acepta el Secretario del Condado de Gloucester como centro de aceptación de pasaportes.",
+    "lead": "El Secretario del Condado de Gloucester acepta solicitudes de pasaporte en dos lugares: el Palacio de Justicia del Condado en Woodbury y la Tienda del Condado en Deptford Mall.",
     "details": [
-     "Quienes solicitan por primera vez lo hacen en persona con prueba de ciudadanía, una identificación con foto y una foto de pasaporte. Los costos los fija el Departamento de Estado de los Estados Unidos y se pagan como indique el Secretario.",
-     "La mayoría de las renovaciones de adultos se hacen por correo directamente con el Departamento de Estado y no en la oficina del Secretario. Llame al Secretario del Condado antes de su visita para confirmar el horario y lo que debe llevar."
+     "Ambos lugares abren de lunes a viernes, de 8:30 AM a 4:00 PM. Todos los solicitantes deben presentarse en persona. Traiga un certificado de nacimiento que indique ambos padres (no se aceptan certificados emitidos por hospitales) u otra prueba de ciudadanía, una identificación con foto válida y una foto de pasaporte de 2x2. La solicitud debe completarse con tinta negra y dejarse sin firmar.",
+     "La tarifa de aceptación de $35 por solicitante se paga al Secretario del Condado de Gloucester. La tarifa de solicitud del Departamento de Estado de EE. UU. se paga por separado con cheque o giro postal a nombre de U.S. Department of State, que no acepta efectivo. Las fotos de pasaporte cuestan $5 por persona, $10 por familia y son gratis para niños de 5 años o menos. El trámite tarda unas 4 a 6 semanas.",
+     "Las renovaciones las atiende el Departamento de Estado de EE. UU. y no la oficina del Secretario. Consulte travel.state.gov para ver si puede renovar por correo."
     ],
     "contact": [
+     {
+      "label": "Oficina de pasaportes",
+      "value": "856-853-3235",
+      "href": "tel:+18568533235"
+     },
      {
       "label": "Secretario del Condado, James N. Hogan",
       "value": "856-853-3237",
       "href": "tel:+18568533237"
+     },
+     {
+      "label": "Pasaportes del Departamento de Estado de EE. UU.",
+      "value": "travel.state.gov",
+      "href": "https://travel.state.gov"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/330/Passports",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1258,8 +1434,9 @@
    "en": {
     "lead": "The Gloucester County Surrogate, Giuseppe Chila, handles probate of wills and estate administration, at 856-853-3282.",
     "details": [
-     "The Surrogate's Court is at 17 North Broad Street, Woodbury, NJ 08096. It probates wills, appoints executors and administrators, and handles guardianships of minors and incapacitated adults and adoptions filed in the county.",
-     "Bring the original will and a certified death certificate to start probate. The Surrogate staff can explain the process and fees, but they cannot give legal advice about an estate dispute."
+     "The Surrogate's Court is at 17 North Broad Street, Woodbury, NJ 08096, open Monday to Friday, 8:30 AM to 4:30 PM. It probates wills, appoints executors and administrators, and handles guardianships of minors and incapacitated adults and adoptions filed in the county. In person visits are by appointment only; matters can also be handled by mail or the secure drop box at the office.",
+     "To start probate, bring the original will and a certified death certificate. Probate of a will of two pages or less costs $100, plus $5 for each additional page, and a short certificate costs $5. The staff can explain the process and fees, but they cannot give legal advice.",
+     "Senior citizens age 60 and older, and veterans under age 60, can receive a free simple will prepared by the Surrogate's office."
     ],
     "contact": [
      {
@@ -1268,30 +1445,41 @@
       "href": "tel:+18568533282"
      },
      {
+      "label": "Surrogate appointments",
+      "value": "856-853-3286",
+      "href": "tel:+18568533286"
+     },
+     {
       "label": "Surrogate Court",
       "value": "17 North Broad Street, Woodbury, NJ 08096"
      }
     ]
    },
    "es": {
-    "lead": "El Juez Testamentario del Condado de Gloucester, Giuseppe Chila, se encarga de la legalización de testamentos y la administración de herencias, al 856-853-3282.",
+    "lead": "El Juez de Sucesiones del Condado de Gloucester, Giuseppe Chila, atiende la validación de testamentos y la administración de herencias, al 856-853-3282.",
     "details": [
-     "La Corte Testamentaria está en 17 North Broad Street, Woodbury, NJ 08096. Legaliza testamentos, nombra albaceas y administradores, y tramita tutelas de menores y de adultos incapacitados y adopciones presentadas en el condado.",
-     "Lleve el testamento original y un certificado de defunción certificado para iniciar el trámite. El personal de la Corte puede explicar el proceso y los costos, pero no puede dar asesoría legal sobre una disputa de una herencia."
+     "El Tribunal de Sucesiones está en 17 North Broad Street, Woodbury, NJ 08096, abierto de lunes a viernes, de 8:30 AM a 4:30 PM. Valida testamentos, nombra ejecutores y administradores, y atiende tutelas de menores y adultos incapacitados y adopciones presentadas en el condado. Las visitas en persona son solo con cita; los trámites también pueden hacerse por correo o en el buzón seguro de la oficina.",
+     "Para iniciar la sucesión, traiga el testamento original y un certificado de defunción certificado. La validación de un testamento de dos páginas o menos cuesta $100, más $5 por cada página adicional, y un certificado corto cuesta $5. El personal puede explicar el proceso y las tarifas, pero no puede dar asesoría legal.",
+     "Las personas mayores de 60 años y los veteranos menores de 60 pueden recibir un testamento simple gratis preparado por la oficina del Juez de Sucesiones."
     ],
     "contact": [
      {
-      "label": "Corte Testamentaria, Giuseppe Chila",
+      "label": "Tribunal de Sucesiones, Giuseppe Chila",
       "value": "856-853-3282",
       "href": "tel:+18568533282"
      },
      {
-      "label": "Corte Testamentaria",
+      "label": "Citas del Tribunal de Sucesiones",
+      "value": "856-853-3286",
+      "href": "tel:+18568533286"
+     },
+     {
+      "label": "Tribunal de Sucesiones",
       "value": "17 North Broad Street, Woodbury, NJ 08096"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/521/Surrogate-Court",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1360,7 +1548,8 @@
    "en": {
     "lead": "Foreclosure sheriff sales in Gloucester County are conducted by the Sheriff's Office, at 856-384-4600.",
     "details": [
-     "Sale lists, dates and conditions of sale are posted by the Sheriff. Buyers should read the conditions carefully, since deposits are required at the sale and properties are sold as is.",
+     "Sales are held every other Wednesday at 2:00 PM in the Ceremonial Courtroom of the County Courthouse, 1 North Broad Street, Woodbury, with bidder check-in at 1:45 PM. All bidders must register by noon on the Tuesday before the sale. Sale lists are advertised in The Sentinel and posted online by the Sheriff.",
+     "The opening bid for any property is $100. The successful bidder must pay a 20 percent deposit at the time of sale, in cash or by certified, Treasurer's, bank or cashier's check. The Sheriff's Office does not know the condition of a property or whether its title is clear. Homeowners have a 10 day redemption period after the sale.",
      "A sheriff sale is a court ordered foreclosure sale. It is different from a municipal tax sale, which your town tax collector runs."
     ],
     "contact": [
@@ -1368,24 +1557,35 @@
       "label": "Sheriff's Office, Carmel M. Morina",
       "value": "856-384-4600",
       "href": "tel:+18563844600"
+     },
+     {
+      "label": "Sheriff sale questions",
+      "value": "856-384-4603",
+      "href": "tel:+18563844603"
      }
     ]
    },
    "es": {
-    "lead": "Las ventas por ejecución hipotecaria del alguacil en el Condado de Gloucester las realiza la Oficina del Alguacil, al 856-384-4600.",
+    "lead": "Las ventas por ejecución hipotecaria del Alguacil en el Condado de Gloucester las realiza la Oficina del Alguacil, al 856-384-4600.",
     "details": [
-     "Las listas de ventas, las fechas y las condiciones de venta las publica el Alguacil. Los compradores deben leer las condiciones con cuidado, ya que se requieren depósitos en la venta y las propiedades se venden tal como están.",
-     "Una venta del alguacil es una venta por ejecución ordenada por un tribunal. Es distinta de una venta por impuestos municipal, que realiza el recaudador de impuestos de su pueblo."
+     "Las ventas se realizan cada dos miércoles a las 2:00 PM en la Sala Ceremonial del Palacio de Justicia del Condado, 1 North Broad Street, Woodbury, con registro de postores a la 1:45 PM. Todos los postores deben registrarse antes del mediodía del martes anterior a la venta. Las listas de ventas se anuncian en The Sentinel y las publica el Alguacil en línea.",
+     "La oferta inicial de cualquier propiedad es $100. El postor ganador debe pagar un depósito del 20 por ciento al momento de la venta, en efectivo o con cheque certificado, de tesorero, bancario o de caja. La Oficina del Alguacil no conoce el estado de la propiedad ni si su título está libre de cargas. Los propietarios tienen un período de redención de 10 días después de la venta.",
+     "Una venta del alguacil es una venta por ejecución hipotecaria ordenada por un tribunal. Es diferente de una venta por impuestos municipales, que realiza el recaudador de impuestos de su pueblo."
     ],
     "contact": [
      {
       "label": "Oficina del Alguacil, Carmel M. Morina",
       "value": "856-384-4600",
       "href": "tel:+18563844600"
+     },
+     {
+      "label": "Preguntas sobre ventas del alguacil",
+      "value": "856-384-4603",
+      "href": "tel:+18563844603"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/564/Foreclosure-Procedures",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1407,32 +1607,42 @@
    "en": {
     "lead": "The Gloucester County Prosecutor's Office can be reached at 856-384-5500.",
     "details": [
-     "The Prosecutor is the county's chief law enforcement office. It prosecutes indictable crimes committed in the county and runs victim and witness services.",
-     "To report a crime that is happening now, call 911. Non-emergency crime reports usually start with your municipal police department, which refers cases to the Prosecutor when appropriate."
+     "The Prosecutor is the county's chief law enforcement officer. The office investigates and prosecutes indictable crimes committed in the county, including violent crime, narcotics and firearms offenses, special victims cases and financial crimes, through units such as Major Crimes, Domestic Violence and Special Victims.",
+     "To report a crime that is happening now, call 911. You can also report a crime tip through the Report a Tip links on the Prosecutor's website, gcprosecutor.org."
     ],
     "contact": [
      {
       "label": "Prosecutor's Office",
       "value": "856-384-5500",
       "href": "tel:+18563845500"
+     },
+     {
+      "label": "Prosecutor's website",
+      "value": "gcprosecutor.org",
+      "href": "https://gcprosecutor.org"
      }
     ]
    },
    "es": {
     "lead": "La Oficina del Fiscal del Condado de Gloucester atiende al 856-384-5500.",
     "details": [
-     "El Fiscal es la principal autoridad de aplicación de la ley del condado. Procesa los delitos graves cometidos en el condado y administra los servicios para víctimas y testigos.",
-     "Para reportar un delito que está ocurriendo ahora, llame al 911. Los reportes de delitos que no son emergencias suelen empezar con el departamento de policía de su municipio, que remite los casos al Fiscal cuando corresponde."
+     "El Fiscal es el principal funcionario de aplicación de la ley del condado. La oficina investiga y procesa los delitos graves cometidos en el condado, incluidos delitos violentos, narcóticos y armas de fuego, casos de víctimas especiales y delitos financieros, a través de unidades como Delitos Mayores, Violencia Doméstica y Víctimas Especiales.",
+     "Para reportar un delito que está ocurriendo ahora, llame al 911. También puede reportar una pista sobre un delito a través de los enlaces Report a Tip en el sitio web del Fiscal, gcprosecutor.org."
     ],
     "contact": [
      {
       "label": "Oficina del Fiscal",
       "value": "856-384-5500",
       "href": "tel:+18563845500"
+     },
+     {
+      "label": "Sitio web del Fiscal",
+      "value": "gcprosecutor.org",
+      "href": "https://gcprosecutor.org"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://gcprosecutor.org/",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1456,16 +1666,21 @@
     ]
    },
    "en": {
-    "lead": "The Gloucester County Office of Emergency Management coordinates county disaster preparedness and response, at 856-307-7100, and the county runs Gloucester County EMS.",
+    "lead": "The Gloucester County Office of Emergency Response, which includes the Office of Emergency Management, can be reached at 856-307-7100, and the county runs Gloucester County EMS.",
     "details": [
-     "Emergency Management works with your town on storms, flooding and large incidents, and runs county emergency planning and training. Gloucester County EMS provides ambulance service in participating towns.",
-     "In any emergency, call 911 first. This office does not take emergency calls. Sign up for county emergency alerts through the county website so warnings reach your phone."
+     "The office is at 1200 North Delsea Drive, Clayton, open Monday to Friday, 8:00 AM to 4:30 PM, with an after hours emergency line at 856-589-0911. In any emergency, call 911 first. You can sign up for the county's Emergency Alert Program on the county website to get severe weather, road closure and evacuation alerts.",
+     "Gloucester County EMS is the first county based regional 911 EMS service in New Jersey. It serves 22 municipalities from 16 stations, with more than 250 providers and at least 13 ambulances staffed around the clock. Its office number, for non-emergency business such as event standby, is 856-307-7120."
     ],
     "contact": [
      {
-      "label": "Office of Emergency Management",
+      "label": "Office of Emergency Response",
       "value": "856-307-7100",
       "href": "tel:+18563077100"
+     },
+     {
+      "label": "Gloucester County EMS office",
+      "value": "856-307-7120",
+      "href": "tel:+18563077120"
      },
      {
       "label": "Gloucester County main number",
@@ -1475,16 +1690,21 @@
     ]
    },
    "es": {
-    "lead": "La Oficina de Manejo de Emergencias del Condado de Gloucester coordina la preparación y respuesta del condado ante desastres, al 856-307-7100, y el condado administra el servicio de ambulancias Gloucester County EMS.",
+    "lead": "La Oficina de Respuesta a Emergencias del Condado de Gloucester, que incluye la Oficina de Manejo de Emergencias, atiende al 856-307-7100, y el condado opera el EMS del Condado de Gloucester.",
     "details": [
-     "Manejo de Emergencias trabaja con su pueblo en tormentas, inundaciones e incidentes grandes, y dirige la planificación y capacitación de emergencias del condado. Gloucester County EMS brinda servicio de ambulancias en los pueblos participantes.",
-     "En cualquier emergencia, llame primero al 911. Esta oficina no recibe llamadas de emergencia. Inscríbase en las alertas de emergencia del condado a través del sitio web del condado para que los avisos lleguen a su teléfono."
+     "La oficina está en 1200 North Delsea Drive, Clayton, abierta de lunes a viernes, de 8:00 AM a 4:30 PM, con una línea de emergencia fuera de horario al 856-589-0911. En cualquier emergencia, llame primero al 911. Puede inscribirse en el Programa de Alertas de Emergencia del condado en el sitio web del condado para recibir avisos de clima severo, cierres de carreteras y evacuaciones.",
+     "El EMS del Condado de Gloucester es el primer servicio regional de EMS 911 basado en un condado en New Jersey. Sirve a 22 municipios desde 16 estaciones, con más de 250 proveedores y al menos 13 ambulancias con personal las 24 horas. Su número de oficina, para asuntos no urgentes como cobertura de eventos, es 856-307-7120."
     ],
     "contact": [
      {
-      "label": "Oficina de Manejo de Emergencias",
+      "label": "Oficina de Respuesta a Emergencias",
       "value": "856-307-7100",
       "href": "tel:+18563077100"
+     },
+     {
+      "label": "Oficina del EMS del Condado de Gloucester",
+      "value": "856-307-7120",
+      "href": "tel:+18563077120"
      },
      {
       "label": "Número principal del Condado de Gloucester",
@@ -1493,7 +1713,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/224/Emergency-Response",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1519,8 +1739,9 @@
    "en": {
     "lead": "The Gloucester County Animal Shelter in Clayton handles adoptions and lost pets for the county, at 856-881-2828.",
     "details": [
-     "The shelter is at 1200 N Delsea Drive, Clayton, NJ 08312. Call before you visit for adoption hours, fees and what to bring, and call as soon as possible if you lost a pet so staff can check incoming animals.",
-     "If you found a stray, the shelter or your town animal control officer can tell you where the animal should be taken."
+     "The shelter is at 1200 N Delsea Drive, Clayton, NJ 08312. Adoption hours are Monday 12:00 PM to 4:00 PM, Tuesday to Thursday 8:00 AM to 6:00 PM, Friday 8:00 AM to 4:00 PM and Saturday 8:00 AM to 4:00 PM, closed Sundays and holidays. You must be 18 or older to adopt.",
+     "Adoption fees are $95 for a cat age 5 or younger and $125 for a dog age 5 or younger; fees are waived for animals age 6 and older, and veterans and senior citizens pay $35. Every adopted pet is spayed or neutered, vaccinated and microchipped. The shelter accepts cash and credit or debit cards, but not personal checks.",
+     "If you lost a pet, call as soon as possible and plan to visit the shelter to look in person. If you found a stray, call the shelter or your town animal control officer to find out where the animal should be taken."
     ],
     "contact": [
      {
@@ -1535,10 +1756,11 @@
     ]
    },
    "es": {
-    "lead": "El Refugio de Animales del Condado de Gloucester, en Clayton, se encarga de las adopciones y las mascotas perdidas del condado, al 856-881-2828.",
+    "lead": "El Refugio de Animales del Condado de Gloucester en Clayton atiende adopciones y mascotas perdidas para el condado, al 856-881-2828.",
     "details": [
-     "El refugio está en 1200 N Delsea Drive, Clayton, NJ 08312. Llame antes de su visita para saber los horarios de adopción, los costos y lo que debe llevar, y llame lo antes posible si perdió una mascota para que el personal revise los animales que llegan.",
-     "Si encontró un animal perdido, el refugio o el oficial de control de animales de su pueblo puede decirle a dónde debe llevarse el animal."
+     "El refugio está en 1200 N Delsea Drive, Clayton, NJ 08312. El horario de adopciones es lunes de 12:00 PM a 4:00 PM, martes a jueves de 8:00 AM a 6:00 PM, viernes de 8:00 AM a 4:00 PM y sábado de 8:00 AM a 4:00 PM, cerrado domingos y días festivos. Debe tener 18 años o más para adoptar.",
+     "Las tarifas de adopción son $95 por un gato de 5 años o menos y $125 por un perro de 5 años o menos; no hay tarifa para animales de 6 años o más, y los veteranos y las personas mayores pagan $35. Cada mascota adoptada está esterilizada, vacunada y con microchip. El refugio acepta efectivo y tarjetas de crédito o débito, pero no cheques personales.",
+     "Si perdió una mascota, llame lo antes posible y planee visitar el refugio para buscar en persona. Si encontró un animal callejero, llame al refugio o al oficial de control de animales de su pueblo para saber a dónde debe llevarse el animal."
     ],
     "contact": [
      {
@@ -1552,7 +1774,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/160/Animal-Shelter",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1574,10 +1796,10 @@
     ]
    },
    "en": {
-    "lead": "Animal control calls are handled locally first, and the Gloucester County Animal Shelter can point you to the right officer at 856-881-2828.",
+    "lead": "Animal control in Gloucester County is a county service: county Animal Control Officers serve all 24 municipalities, and calls go to the Gloucester County Animal Shelter at 856-881-2828.",
     "details": [
-     "Towns in Gloucester County contract for animal control services, and the shelter receives animals for those towns. Give the shelter your town and the location of the animal so they can route the call.",
-     "For a wild animal that is inside a home or an animal that is aggressive or injured and a danger, call your local police non-emergency line, or 911 if anyone is in immediate danger. Dog licenses are issued by your municipality, not the county."
+     "For a stray or abandoned animal, call 856-881-2828, extension 3, and give the location and a description of the animal. The county shelter is an open admission shelter and receives stray and abandoned animals from every town in the county.",
+     "For an animal emergency outside office hours, call the same number, 856-881-2828, and press 2 for an emergency to be transferred to the 911 dispatcher, or press 1 for a non-emergency. If anyone is in immediate danger, call 911. Injured or orphaned wildlife calls also go to 856-881-2828, extension 3. Dog licenses are issued by your municipality, not the county."
     ],
     "contact": [
      {
@@ -1593,10 +1815,10 @@
     ]
    },
    "es": {
-    "lead": "Las llamadas de control de animales se atienden primero a nivel local, y el Refugio de Animales del Condado de Gloucester puede indicarle el oficial correcto al 856-881-2828.",
+    "lead": "El control de animales en el Condado de Gloucester es un servicio del condado: los Oficiales de Control de Animales del condado sirven a los 24 municipios, y las llamadas van al Refugio de Animales del Condado de Gloucester al 856-881-2828.",
     "details": [
-     "Los pueblos del Condado de Gloucester contratan servicios de control de animales, y el refugio recibe los animales de esos pueblos. Indique al refugio su pueblo y la ubicación del animal para que puedan dirigir la llamada.",
-     "Para un animal salvaje dentro de una casa o un animal agresivo o herido que sea un peligro, llame a la línea de no emergencias de su policía local, o al 911 si alguien está en peligro inmediato. Las licencias para perros las emite su municipio, no el condado."
+     "Para un animal callejero o abandonado, llame al 856-881-2828, extensión 3, e indique el lugar y una descripción del animal. El refugio del condado es un refugio de admisión abierta y recibe animales callejeros y abandonados de todos los pueblos del condado.",
+     "Para una emergencia con animales fuera del horario de oficina, llame al mismo número, 856-881-2828, y presione 2 para una emergencia para ser transferido al despachador del 911, o presione 1 para un asunto no urgente. Si alguien está en peligro inmediato, llame al 911. Las llamadas por fauna silvestre herida o huérfana también van al 856-881-2828, extensión 3. Las licencias para perros las emite su municipio, no el condado."
     ],
     "contact": [
      {
@@ -1611,7 +1833,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/178/Animal-Control-Services",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1635,8 +1857,8 @@
    "en": {
     "lead": "The Gloucester County Library System, GCLS, is the county library system, and its main line is 856-223-6000.",
     "details": [
-     "GCLS branches serve towns across the county with books, programs, computers and meeting space. Branch hours differ, so check your branch before you go.",
-     "A GCLS library card is issued at any branch. Some towns also have their own independent libraries, and your card access can differ there, so ask your branch."
+     "GCLS has five branches, in Glassboro, Greenwich, Logan, Mullica Hill and Swedesboro, serving 14 member communities with books, programs, computers and meeting space. Branch hours differ, so check your branch before you go.",
+     "Library cards are issued in person at any branch to residents of the 14 member communities, with a photo ID and proof of residency. Residents of other counties outside Cumberland and Salem can buy a card for $100 a year or $50 for six months. Cards are renewed every two years, a lost card costs $1 to replace, and digital library cards can be applied for online. Some towns also have their own independent libraries, and your card access can differ there, so ask your branch."
     ],
     "contact": [
      {
@@ -1654,8 +1876,8 @@
    "es": {
     "lead": "El Sistema de Bibliotecas del Condado de Gloucester, GCLS, es el sistema de bibliotecas del condado, y su línea principal es 856-223-6000.",
     "details": [
-     "Las sucursales de GCLS sirven a pueblos de todo el condado con libros, programas, computadoras y espacios de reunión. El horario varía por sucursal, así que confirme el de su sucursal antes de ir.",
-     "La tarjeta de la biblioteca de GCLS se emite en cualquier sucursal. Algunos pueblos también tienen sus propias bibliotecas independientes, y el acceso con su tarjeta puede ser distinto allí, así que pregunte en su sucursal."
+     "GCLS tiene cinco sucursales, en Glassboro, Greenwich, Logan, Mullica Hill y Swedesboro, que sirven a 14 comunidades miembros con libros, programas, computadoras y salas de reuniones. El horario varía según la sucursal, así que consulte su sucursal antes de ir.",
+     "Las tarjetas de biblioteca se emiten en persona en cualquier sucursal para residentes de las 14 comunidades miembros, con una identificación con foto y un comprobante de residencia. Los residentes de otros condados fuera de Cumberland y Salem pueden comprar una tarjeta por $100 al año o $50 por seis meses. Las tarjetas se renuevan cada dos años, reemplazar una tarjeta perdida cuesta $1, y las tarjetas digitales pueden solicitarse en línea. Algunos pueblos también tienen sus propias bibliotecas independientes, y el acceso con su tarjeta puede diferir allí, así que pregunte en su sucursal."
     ],
     "contact": [
      {
@@ -1670,7 +1892,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gcls.org",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1696,44 +1918,54 @@
     ]
    },
    "en": {
-    "lead": "County job openings are posted by Gloucester County Human Resources on the county website, and workforce services run through the American Job Center.",
+    "lead": "County job openings are posted by Gloucester County Human Resources, and free workforce services for job seekers run through the One-Stop Career Center, the county's American Job Center, in Sewell.",
     "details": [
-     "The American Job Center in Thorofare, phone 856-384-6963, helps job seekers with training, resumes and job search, and connects employers with workers. Unemployment claims themselves are filed with the State of New Jersey, not the county.",
-     "For a county job, apply exactly as the posting directs and watch the closing date. The county main number can connect you with Human Resources."
+     "The One-Stop Career Center is at 1480 Tanyard Road, Suite A, Sewell, NJ 08096, phone 856-384-3700, open Monday to Friday, 8:30 AM to 4:30 PM. Its free services include career counseling, job search and resume help, and access to training programs, for job seekers and employers.",
+     "County job applications are accepted online only, through the county website. Human Resources can be reached directly at 856-853-3264. The Workforce Development Board, which oversees the county workforce system, is at 856-384-6963."
     ],
     "contact": [
      {
-      "label": "Gloucester County main number",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "One-Stop Career Center (American Job Center)",
+      "value": "856-384-3700",
+      "href": "tel:+18563843700"
      },
      {
-      "label": "American Job Center",
+      "label": "Human Resources",
+      "value": "856-853-3264",
+      "href": "tel:+18568533264"
+     },
+     {
+      "label": "Workforce Development Board",
       "value": "856-384-6963",
       "href": "tel:+18563846963"
      }
     ]
    },
    "es": {
-    "lead": "Las vacantes del condado las publica Recursos Humanos del Condado de Gloucester en el sitio web del condado, y los servicios laborales funcionan a través del Centro de Empleo Americano.",
+    "lead": "Las vacantes del condado las publica Recursos Humanos del Condado de Gloucester, y los servicios gratuitos de empleo para quienes buscan trabajo se ofrecen a través del One-Stop Career Center, el American Job Center del condado, en Sewell.",
     "details": [
-     "El Centro de Empleo Americano en Thorofare, teléfono 856-384-6963, ayuda a quienes buscan empleo con capacitación, currículums y búsqueda de trabajo, y comunica a los empleadores con trabajadores. Las reclamaciones de desempleo se presentan ante el Estado de New Jersey, no ante el condado.",
-     "Para un empleo del condado, presente su solicitud exactamente como indica el anuncio y preste atención a la fecha de cierre. El número principal del condado puede comunicarle con Recursos Humanos."
+     "El One-Stop Career Center está en 1480 Tanyard Road, Suite A, Sewell, NJ 08096, teléfono 856-384-3700, abierto de lunes a viernes, de 8:30 AM a 4:30 PM. Sus servicios gratuitos incluyen orientación profesional, ayuda con la búsqueda de empleo y el currículum, y acceso a programas de capacitación, para solicitantes de empleo y empleadores.",
+     "Las solicitudes para empleos del condado se aceptan solo en línea, a través del sitio web del condado. Recursos Humanos atiende directamente al 856-853-3264. La Junta de Desarrollo de la Fuerza Laboral, que supervisa el sistema de empleo del condado, atiende al 856-384-6963."
     ],
     "contact": [
      {
-      "label": "Número principal del Condado de Gloucester",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "One-Stop Career Center (American Job Center)",
+      "value": "856-384-3700",
+      "href": "tel:+18563843700"
      },
      {
-      "label": "Centro de Empleo Americano",
+      "label": "Recursos Humanos",
+      "value": "856-853-3264",
+      "href": "tel:+18568533264"
+     },
+     {
+      "label": "Junta de Desarrollo de la Fuerza Laboral",
       "value": "856-384-6963",
       "href": "tel:+18563846963"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/383/One-Stop-Career-Center",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1757,7 +1989,7 @@
    "en": {
     "lead": "The Gloucester County Department of Economic Development helps businesses locate, start and grow in the county, at 856-384-6930.",
     "details": [
-     "The department works with the Gloucester County Improvement Authority on sites, financing programs and workforce connections, and can point new businesses to the right municipal approvals.",
+     "The department is at 1480 Tanyard Road, Suite B, Sewell, NJ 08080, and works in partnership with the Gloucester County Improvement Authority (GCIA), which can be reached at 856-848-4002, on economic development tools and opportunities for county businesses.",
      "Business licenses, zoning approvals and construction permits themselves are issued by the municipality where the business will operate, not by the county."
     ],
     "contact": [
@@ -1767,6 +1999,11 @@
       "href": "tel:+18563846930"
      },
      {
+      "label": "Gloucester County Improvement Authority",
+      "value": "856-848-4002",
+      "href": "tel:+18568484002"
+     },
+     {
       "label": "Gloucester County main number",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
@@ -1774,10 +2011,10 @@
     ]
    },
    "es": {
-    "lead": "El Departamento de Desarrollo Económico del Condado de Gloucester ayuda a los negocios a establecerse, abrir y crecer en el condado, al 856-384-6930.",
+    "lead": "El Departamento de Desarrollo Económico del Condado de Gloucester ayuda a las empresas a establecerse, iniciar y crecer en el condado, al 856-384-6930.",
     "details": [
-     "El departamento trabaja con la Autoridad de Mejoramiento del Condado de Gloucester en terrenos, programas de financiamiento y conexiones laborales, y puede orientar a los negocios nuevos sobre las aprobaciones municipales correctas.",
-     "Las licencias comerciales, las aprobaciones de zonificación y los permisos de construcción los emite el municipio donde operará el negocio, no el condado."
+     "El departamento está en 1480 Tanyard Road, Suite B, Sewell, NJ 08080, y trabaja en asociación con la Autoridad de Mejoras del Condado de Gloucester (GCIA), al 856-848-4002, en herramientas y oportunidades de desarrollo económico para las empresas del condado.",
+     "Las licencias comerciales, las aprobaciones de zonificación y los permisos de construcción los emite el municipio donde operará la empresa, no el condado."
     ],
     "contact": [
      {
@@ -1786,13 +2023,18 @@
       "href": "tel:+18563846930"
      },
      {
+      "label": "Autoridad de Mejoras del Condado de Gloucester",
+      "value": "856-848-4002",
+      "href": "tel:+18568484002"
+     },
+     {
       "label": "Número principal del Condado de Gloucester",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/397/Economic-Development",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1818,7 +2060,7 @@
    "en": {
     "lead": "Property assessments in Gloucester County are overseen by the County Assessor and the Board of Taxation, and the County Assessor can be reached at 856-307-6445.",
     "details": [
-     "Gloucester County uses a county based assessment system. Assessment appeals are filed with the Board of Taxation by the deadline in your assessment notice, with the values set under the County Assessor.",
+     "Gloucester County is the only county in New Jersey with a county based assessment system: the County Assessor values all real property in the county. Assessment notices (Chapter 75 postcards) are mailed on or before November 15 each year, and appeals are filed with the Board of Taxation between November 15 and January 15, online or in person, by 4:00 PM on January 15. The Board also handles farmland assessment applications and veterans and senior citizen deduction applications, and it is a cashless office.",
      "Your property tax bill itself is issued and collected by your municipal tax collector. Questions about paying a bill go to your town, while questions about the assessed value go to the County Assessor and the Board of Taxation."
     ],
     "contact": [
@@ -1828,6 +2070,11 @@
       "href": "tel:+18563076445"
      },
      {
+      "label": "Board of Taxation",
+      "value": "856-307-6448",
+      "href": "tel:+18563076448"
+     },
+     {
       "label": "Gloucester County main number",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
@@ -1835,10 +2082,10 @@
     ]
    },
    "es": {
-    "lead": "Las tasaciones de propiedades en el Condado de Gloucester las supervisan el Tasador del Condado y la Junta de Impuestos, y puede llamar al Tasador del Condado al 856-307-6445.",
+    "lead": "Las tasaciones de propiedades en el Condado de Gloucester las supervisan el Tasador del Condado y la Junta de Impuestos, y el Tasador del Condado atiende al 856-307-6445.",
     "details": [
-     "El Condado de Gloucester usa un sistema de tasación a nivel del condado. Las apelaciones de tasación se presentan ante la Junta de Impuestos antes de la fecha límite indicada en su aviso de tasación, con los valores fijados bajo el Tasador del Condado.",
-     "La factura de impuestos a la propiedad la emite y la cobra el recaudador de impuestos de su municipio. Las preguntas sobre el pago de una factura van a su pueblo, mientras que las preguntas sobre el valor tasado van al Tasador del Condado y a la Junta de Impuestos."
+     "El Condado de Gloucester es el único condado de New Jersey con un sistema de tasación basado en el condado: el Tasador del Condado valora todas las propiedades del condado. Los avisos de tasación (tarjetas del Capítulo 75) se envían a más tardar el 15 de noviembre de cada año, y las apelaciones se presentan ante la Junta de Impuestos entre el 15 de noviembre y el 15 de enero, en línea o en persona, hasta las 4:00 PM del 15 de enero. La Junta también atiende solicitudes de tasación de tierras agrícolas y deducciones para veteranos y personas mayores, y es una oficina sin efectivo.",
+     "La factura de impuestos a la propiedad en sí la emite y la cobra el recaudador de impuestos de su municipio. Las preguntas sobre el pago de una factura van a su pueblo, mientras que las preguntas sobre el valor tasado van al Tasador del Condado y a la Junta de Impuestos."
     ],
     "contact": [
      {
@@ -1847,13 +2094,18 @@
       "href": "tel:+18563076445"
      },
      {
+      "label": "Junta de Impuestos",
+      "value": "856-307-6448",
+      "href": "tel:+18563076448"
+     },
+     {
       "label": "Número principal del Condado de Gloucester",
       "value": "856-853-3200",
       "href": "tel:+18568533200"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/1152/Board-of-Taxation",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1875,34 +2127,44 @@
     ]
    },
    "en": {
-    "lead": "Consumer complaints in Gloucester County are handled by the county Consumer Protection office, at 856-384-6855.",
+    "lead": "Consumer complaints in Gloucester County go to the New Jersey Division of Consumer Affairs at 1-800-242-5846; the county does not run its own consumer protection office.",
     "details": [
-     "The office takes complaints about county businesses, checks weights and measures, and can explain how to document a dispute before you file.",
-     "Many consumer cases also go to the New Jersey Division of Consumer Affairs, a state office. For a scam in progress or a theft, contact your local police."
+     "The county's own directory lists Consumer Protection at the state Division of Consumer Affairs number, 1-800-242-5846, and the county website's Consumer Affairs link goes to that state office, which takes complaints about businesses and scams.",
+     "For complaints about the accuracy of a scale, gas pump or other weighing or measuring device, the county Office of Weights and Measures, 856-307-6611, inspects and tests those devices and responds to complaints about them. Its hours are Monday to Friday, 8:30 AM to 4:30 PM. For a scam in progress or a theft, contact your local police."
     ],
     "contact": [
      {
-      "label": "Consumer Protection",
-      "value": "856-384-6855",
-      "href": "tel:+18563846855"
+      "label": "NJ Division of Consumer Affairs",
+      "value": "1-800-242-5846",
+      "href": "tel:+18002425846"
+     },
+     {
+      "label": "Office of Weights and Measures",
+      "value": "856-307-6611",
+      "href": "tel:+18563076611"
      }
     ]
    },
    "es": {
-    "lead": "Las quejas de consumidores en el Condado de Gloucester las atiende la oficina de Protección al Consumidor del condado, al 856-384-6855.",
+    "lead": "Las quejas de consumidores en el Condado de Gloucester van a la División de Asuntos del Consumidor de New Jersey al 1-800-242-5846; el condado no tiene su propia oficina de protección al consumidor.",
     "details": [
-     "La oficina recibe quejas sobre negocios del condado, verifica pesas y medidas y puede explicar cómo documentar una disputa antes de presentarla.",
-     "Muchos casos de consumidores también van a la División de Asuntos del Consumidor de New Jersey, una oficina estatal. Para una estafa en curso o un robo, contacte a su policía local."
+     "El propio directorio del condado indica Protección al Consumidor en el número de la División de Asuntos del Consumidor del estado, 1-800-242-5846, y el enlace Consumer Affairs del sitio web del condado lleva a esa oficina estatal, que recibe quejas sobre negocios y estafas.",
+     "Para quejas sobre la exactitud de una balanza, una bomba de gasolina u otro dispositivo de pesaje o medición, la Oficina de Pesas y Medidas del condado, 856-307-6611, inspecciona y prueba esos dispositivos y responde a las quejas sobre ellos. Su horario es de lunes a viernes, de 8:30 AM a 4:30 PM. Para una estafa en curso o un robo, contacte a su policía local."
     ],
     "contact": [
      {
-      "label": "Protección al Consumidor",
-      "value": "856-384-6855",
-      "href": "tel:+18563846855"
+      "label": "División de Asuntos del Consumidor de NJ",
+      "value": "1-800-242-5846",
+      "href": "tel:+18002425846"
+     },
+     {
+      "label": "Oficina de Pesas y Medidas",
+      "value": "856-307-6611",
+      "href": "tel:+18563076611"
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/953/Weights-Measures",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1913,27 +2175,37 @@
      "county contracts",
      "sell to the county",
      "rfp gloucester county",
-     "vendor registration"
+     "vendor registration",
+     "purchasing department phone number",
+     "purchasing phone number",
+     "purchasing department number"
     ],
     "es": [
      "oportunidades de licitacion",
      "contratos del condado",
      "vender al condado",
      "rfp del condado de gloucester",
-     "registro de proveedores"
+     "registro de proveedores",
+     "numero de telefono de compras",
+     "telefono del departamento de compras"
     ]
    },
    "en": {
-    "lead": "Gloucester County bid opportunities and requests for proposals are posted on the county website by the Purchasing office.",
+    "lead": "Gloucester County bid opportunities and requests for proposals are posted on the county website's Bid Postings page, and the Purchasing Department can be reached at 856-853-3420.",
     "details": [
-     "Vendors should read each notice for the submission deadline, the delivery address and whether sealed hard copies are required, since county professional service RFPs often require paper submission in Woodbury.",
-     "Questions about a specific bid go to the contact named in that notice. Do not send a proposal to a different office or after the deadline, since late submissions are not accepted."
+     "All questions about a bid or RFP go to the Qualified Purchasing Agent, Kimberly Larter, QPA, at 856-853-3415. Read each notice for its deadline and delivery address, and deliver exactly as the notice directs: county notices have used different floors of the Administration Building, so follow the notice, not a general address.",
+     "Bids and proposals are not accepted by fax or email, and anything received after the date and time in the notice is returned unopened."
     ],
     "contact": [
      {
-      "label": "Purchasing",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "Purchasing Department",
+      "value": "856-853-3420",
+      "href": "tel:+18568533420"
+     },
+     {
+      "label": "Kimberly Larter, QPA",
+      "value": "856-853-3415",
+      "href": "tel:+18568533415"
      },
      {
       "label": "County Administration Building",
@@ -1942,16 +2214,21 @@
     ]
    },
    "es": {
-    "lead": "Las oportunidades de licitación y las solicitudes de propuestas del Condado de Gloucester las publica la oficina de Compras en el sitio web del condado.",
+    "lead": "Las oportunidades de licitación y las solicitudes de propuestas del Condado de Gloucester se publican en la página Bid Postings del sitio web del condado, y el Departamento de Compras atiende al 856-853-3420.",
     "details": [
-     "Los proveedores deben leer cada aviso para saber la fecha límite de entrega, la dirección de entrega y si se requieren copias impresas selladas, ya que las RFP de servicios profesionales del condado suelen exigir entrega en papel en Woodbury.",
-     "Las preguntas sobre una licitación específica van al contacto indicado en ese aviso. No envíe una propuesta a otra oficina ni después de la fecha límite, ya que no se aceptan entregas tardías."
+     "Todas las preguntas sobre una licitación o RFP van a la Agente de Compras Calificada, Kimberly Larter, QPA, al 856-853-3415. Lea cada aviso para conocer su plazo y dirección de entrega, y entregue exactamente como indica el aviso: los avisos del condado han usado diferentes pisos del Edificio de Administración, así que siga el aviso y no una dirección general.",
+     "Las ofertas y propuestas no se aceptan por fax ni por correo electrónico, y todo lo que se reciba después de la fecha y hora del aviso se devuelve sin abrir."
     ],
     "contact": [
      {
-      "label": "Compras",
-      "value": "856-853-3200",
-      "href": "tel:+18568533200"
+      "label": "Departamento de Compras",
+      "value": "856-853-3420",
+      "href": "tel:+18568533420"
+     },
+     {
+      "label": "Kimberly Larter, QPA",
+      "value": "856-853-3415",
+      "href": "tel:+18568533415"
      },
      {
       "label": "Edificio de Administración del Condado",
@@ -1959,7 +2236,7 @@
      }
     ]
    },
-   "source": "https://www.gloucestercountynj.gov/",
+   "source": "https://www.gloucestercountynj.gov/443/Purchasing",
    "sourceLabel": "Gloucester County official site"
   },
   {
@@ -1982,7 +2259,7 @@
     "lead": "You can prepare a report here and this assistant will point you to the county department that handles it, but this assistant does not send or save your report.",
     "details": [
      "Use the Report an issue panel on this page to organize the details: what the issue is, where it is, and how to reach you. Then call the department shown with your summary, for example Public Works at 856-307-6400 for a county road problem or Parks and Recreation at 856-251-6710 for a county park problem.",
-     "Your report is only filed once you contact the county yourself. If the issue is an emergency or a danger right now, call 911 instead."
+     "One exception: a pothole on a county road can be filed directly on the county website with the Report a Pothole form. For everything else, your report is only filed once you contact the county yourself. If the issue is an emergency or a danger right now, call 911 instead."
     ],
     "contact": [
      {
@@ -1998,10 +2275,10 @@
     ]
    },
    "es": {
-    "lead": "Puede preparar un reporte aquí y este asistente le indicará el departamento del condado que lo atiende, pero este asistente no envía ni guarda su reporte.",
+    "lead": "Puede preparar un informe aquí y este asistente le indicará el departamento del condado que lo atiende, pero este asistente no envía ni guarda su informe.",
     "details": [
-     "Use el panel Reportar un problema de esta página para organizar los detalles: cuál es el problema, dónde está y cómo contactarle. Luego llame al departamento indicado con su resumen, por ejemplo Obras Públicas al 856-307-6400 para un problema en una carretera del condado o Parques y Recreación al 856-251-6710 para un problema en un parque del condado.",
-     "Su reporte solo queda presentado cuando usted mismo contacta al condado. Si el problema es una emergencia o un peligro en este momento, llame al 911."
+     "Use el panel Report an issue en esta página para organizar los detalles: cuál es el problema, dónde está y cómo contactarlo. Luego llame al departamento indicado con su resumen, por ejemplo Obras Públicas al 856-307-6400 para un problema en una carretera del condado o Parques y Recreación al 856-251-6710 para un problema en un parque del condado.",
+     "Una excepción: un bache en una carretera del condado puede presentarse directamente en el sitio web del condado con el formulario Report a Pothole. Para todo lo demás, su informe solo se presenta cuando usted mismo contacta al condado. Si el problema es una emergencia o un peligro en este momento, llame al 911."
     ],
     "contact": [
      {
@@ -2044,7 +2321,7 @@
     "lead": "Garbage and recycling pickup in Gloucester County is handled by your town, not by the county.",
     "details": [
      "Each of the 24 municipalities sets its own pickup days, bulk pickup rules and recycling schedule, through its public works department or its hauler. Contact your municipal clerk or town hall and ask for your town public works or sanitation schedule.",
-     "This assistant does not have your town pickup calendar and will not guess at it. County government does not collect household garbage anywhere in Gloucester County."
+     "This assistant does not have your town pickup calendar and will not guess at it. Household pickup is municipal; disposal is the county side of the system, through the Gloucester County Improvement Authority's Solid Waste Complex and landfill."
     ],
     "contact": [
      {
@@ -2058,7 +2335,7 @@
     "lead": "La recogida de basura y reciclaje en el Condado de Gloucester la maneja su pueblo, no el condado.",
     "details": [
      "Cada uno de los 24 municipios fija sus propios días de recogida, reglas de recogida de objetos grandes y horario de reciclaje, a través de su departamento de obras públicas o su empresa recolectora. Contacte al secretario municipal o al ayuntamiento de su pueblo y pida el horario de obras públicas o saneamiento de su pueblo.",
-     "Este asistente no tiene el calendario de recogida de su pueblo y no va a adivinarlo. El gobierno del condado no recoge la basura de los hogares en ningún lugar del Condado de Gloucester."
+     "Este asistente no tiene el calendario de recogida de su pueblo y no va a adivinarlo. La recogida domiciliaria es municipal; la disposición es la parte del condado, a través del Complejo de Residuos Sólidos y el vertedero de la Autoridad de Mejoras del Condado de Gloucester."
     ],
     "contact": [
      {
@@ -2092,8 +2369,8 @@
    "en": {
     "lead": "Local police service in Gloucester County is provided by your town police department, not by the county.",
     "details": [
-     "For any emergency, a crime in progress or a danger to anyone, call 911 right away. For non-emergency police matters, call your municipal police department non-emergency line, which your municipal clerk or town hall can give you.",
-     "The Gloucester County Sheriff, 856-384-4600, handles courthouse security, court process and sheriff sales, and does not provide day to day town police patrols. Some smaller towns are covered by the New Jersey State Police instead of a local department."
+     "For any emergency, a crime in progress or a danger to anyone, call 911 right away. For non-emergency police matters, call your municipal police department non-emergency line, which your municipal clerk or town hall can give you. If your town has no police department of its own, your town hall can tell you which agency provides coverage.",
+     "The Gloucester County Sheriff, 856-384-4600, handles courthouse security, court process and sheriff sales, and does not provide day to day town police patrols."
     ],
     "contact": [
      {
@@ -2111,8 +2388,8 @@
    "es": {
     "lead": "El servicio de policía local en el Condado de Gloucester lo brinda el departamento de policía de su pueblo, no el condado.",
     "details": [
-     "Para cualquier emergencia, un delito en curso o un peligro para alguien, llame al 911 de inmediato. Para asuntos policiales que no sean emergencias, llame a la línea de no emergencias del departamento de policía de su municipio, que el secretario municipal o el ayuntamiento de su pueblo puede darle.",
-     "El Alguacil del Condado de Gloucester, 856-384-4600, se encarga de la seguridad del palacio de justicia, los documentos judiciales y las ventas del alguacil, y no brinda patrullaje policial diario en los pueblos. Algunos pueblos pequeños están cubiertos por la Policía Estatal de New Jersey en lugar de un departamento local."
+     "Para cualquier emergencia, un delito en curso o un peligro para alguien, llame al 911 de inmediato. Para asuntos policiales que no sean emergencias, llame a la línea de no emergencias del departamento de policía de su municipio, que el secretario municipal o el ayuntamiento de su pueblo puede darle. Si su pueblo no tiene su propio departamento de policía, el ayuntamiento puede decirle qué agencia brinda la cobertura.",
+     "El Alguacil del Condado de Gloucester, 856-384-4600, se encarga de la seguridad del palacio de justicia, los documentos judiciales y las ventas del alguacil, y no brinda patrullaje policial diario en los pueblos."
     ],
     "contact": [
      {
@@ -2214,8 +2491,8 @@
    "en": {
     "lead": "Property tax bills in Gloucester County are issued and paid to your town tax collector, not to the county.",
     "details": [
-     "Your municipal tax collector sends the bill, takes payments and can tell you due dates, grace periods and interest on late payments. Contact your municipal clerk or town hall and ask for the tax collector.",
-     "The county role in property taxes is the assessed value, handled by the County Assessor and the Board of Taxation. If your question is about the value rather than the bill, ask this assistant about tax assessment instead."
+     "Your municipal tax collector sends the bill, takes payments and can tell you due dates, grace periods and interest on late payments. Contact your municipal clerk or town hall and ask for the tax collector. The county website also posts a Find Your Tax Collector page listing each town's collector.",
+     "The county role in property taxes is the assessed value: the County Assessor sets the values, and the Board of Taxation hears appeals of those values. If your question is about the value rather than the bill, ask this assistant about tax assessment instead."
     ],
     "contact": [
      {
@@ -2233,8 +2510,8 @@
    "es": {
     "lead": "Las facturas de impuestos a la propiedad en el Condado de Gloucester las emite y las cobra el recaudador de impuestos de su pueblo, no el condado.",
     "details": [
-     "El recaudador de impuestos de su municipio envía la factura, recibe los pagos y puede informarle las fechas de vencimiento, los períodos de gracia y los intereses por pagos tardíos. Contacte al secretario municipal o al ayuntamiento de su pueblo y pida el recaudador de impuestos.",
-     "El papel del condado en los impuestos a la propiedad es el valor tasado, a cargo del Tasador del Condado y la Junta de Impuestos. Si su pregunta es sobre el valor y no sobre la factura, pregunte a este asistente sobre la tasación de impuestos."
+     "El recaudador de impuestos de su municipio envía la factura, recibe los pagos y puede informarle las fechas de vencimiento, los períodos de gracia y los intereses por pagos tardíos. Contacte al secretario municipal o al ayuntamiento de su pueblo y pida el recaudador de impuestos. El sitio web del condado también publica una página Find Your Tax Collector con el recaudador de cada pueblo.",
+     "El papel del condado en los impuestos a la propiedad es el valor tasado: el Tasador del Condado fija los valores y la Junta de Impuestos escucha las apelaciones de esos valores. Si su pregunta es sobre el valor y no sobre la factura, pregunte a este asistente sobre la tasación de impuestos."
     ],
     "contact": [
      {
@@ -2326,8 +2603,8 @@
    "en": {
     "lead": "Town streets and streetlights in Gloucester County are handled by your municipality, not by the county.",
     "details": [
-     "Your town public works department repairs town streets, plows them in winter and takes streetlight reports, though many streetlights are owned by the electric utility. Contact your municipal clerk or town hall and ask for public works.",
-     "The county Public Works Department, 856-307-6400, handles county roads and bridges only. If you are not sure whose road it is, either office can tell you. For a downed wire or a dangerous streetlight, call 911 or your electric utility."
+     "Your town public works department repairs town streets and plows them in winter. For a streetlight that is out, contact your town hall or public works, which can tell you whether the light is the town's or the electric utility's. For a downed wire or a dangerous streetlight, call 911.",
+     "The county Public Works Department, 856-307-6400, handles county roads and bridges only, and can confirm whether a particular road is a county road."
     ],
     "contact": [
      {
@@ -2345,8 +2622,8 @@
    "es": {
     "lead": "Las calles de los pueblos y las farolas en el Condado de Gloucester las atiende su municipio, no el condado.",
     "details": [
-     "El departamento de obras públicas de su pueblo repara las calles del pueblo, las limpia de nieve en invierno y recibe los reportes de farolas, aunque muchas farolas son propiedad de la compañía eléctrica. Contacte al secretario municipal o al ayuntamiento de su pueblo y pida obras públicas.",
-     "El Departamento de Obras Públicas del condado, 856-307-6400, se encarga solo de las carreteras y puentes del condado. Si no está seguro de quién es la carretera, cualquiera de las dos oficinas puede decírselo. Para un cable caído o una farola peligrosa, llame al 911 o a su compañía eléctrica."
+     "El departamento de obras públicas de su pueblo repara las calles del pueblo y las limpia de nieve en invierno. Para una farola apagada, contacte al ayuntamiento o a obras públicas de su pueblo, que pueden decirle si la farola es del pueblo o de la compañía eléctrica. Para un cable caído o una farola peligrosa, llame al 911.",
+     "El Departamento de Obras Públicas del condado, 856-307-6400, se encarga solo de las carreteras y puentes del condado, y puede confirmar si una carretera en particular es del condado."
     ],
     "contact": [
      {
