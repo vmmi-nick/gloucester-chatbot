@@ -16,7 +16,12 @@
      "when is the county open",
      "county administration building",
      "how do i contact the county",
-     "county offices"
+     "county offices",
+     "office hours",
+     "county office hours",
+     "what time does the county open",
+     "when does the county close",
+     "county building hours"
     ],
     "es": [
      "numero de telefono del condado",
@@ -25,13 +30,17 @@
      "cuando abre el condado",
      "edificio de administracion del condado",
      "como contacto al condado",
-     "oficinas del condado"
+     "oficinas del condado",
+     "horario de oficinas del condado",
+     "a que hora abre el condado",
+     "a que hora cierra el condado"
     ]
    },
    "en": {
     "lead": "Gloucester County's main offices are at the County Administration Building in Woodbury, and the county main number is 856-853-3200.",
     "details": [
      "The Administration Building is at 2 South Broad Street, PO Box 337, Woodbury, NJ 08096. Some county offices are at other locations, including Elections in West Deptford and the Sheriff and Prosecutor on Hunter Street in Woodbury.",
+     "Most county offices are open Monday to Friday, 8:30 AM to 4:30 PM, but hours vary by department: a few open at 8:00 AM or close at 4:00 PM, and some keep shorter in-person hours. Check the department's page or call ahead before you go.",
      "Gloucester County covers 24 municipalities. Some services, like garbage pickup and municipal court, belong to your town rather than the county, and this assistant will point you to your town for those."
     ],
     "contact": [
@@ -50,6 +59,7 @@
     "lead": "Las oficinas principales del Condado de Gloucester están en el Edificio de Administración del Condado en Woodbury, y el número principal del condado es 856-853-3200.",
     "details": [
      "El Edificio de Administración está en 2 South Broad Street, PO Box 337, Woodbury, NJ 08096. Algunas oficinas del condado están en otros lugares, como Elecciones en West Deptford y el Alguacil y el Fiscal en Hunter Street en Woodbury.",
+     "La mayoría de las oficinas del condado abren de lunes a viernes, de 8:30 AM a 4:30 PM, pero el horario varía según el departamento: algunas abren a las 8:00 AM o cierran a las 4:00 PM, y algunas tienen un horario en persona más corto. Consulte la página del departamento o llame antes de ir.",
      "El Condado de Gloucester abarca 24 municipios. Algunos servicios, como la recogida de basura y el tribunal municipal, corresponden a su pueblo y no al condado, y este asistente le indicará que se dirija a su pueblo para esos temas."
     ],
     "contact": [
@@ -279,14 +289,19 @@
      "report a pothole",
      "county road damage",
      "county road repair",
-     "pothole in a county road"
+     "pothole in a county road",
+     "report potholes",
+     "county road potholes",
+     "potholes on county roads"
     ],
     "es": [
      "bache en una carretera del condado",
      "bache en carretera del condado",
      "reportar un bache",
      "dano en una carretera del condado",
-     "reparacion de carreteras del condado"
+     "reparacion de carreteras del condado",
+     "reportar baches",
+     "baches en carreteras del condado"
     ]
    },
    "en": {
@@ -873,7 +888,8 @@
      "schedule a senior ride",
      "book a senior ride",
      "senior ride",
-     "ride to a doctor appointment"
+     "ride to a doctor appointment",
+     "bus for seniors"
     ],
     "es": [
      "transporte para personas mayores",
@@ -1056,7 +1072,13 @@
      "cash assistance",
      "medicaid help",
      "welfare office",
-     "general assistance"
+     "general assistance",
+     "emergency assistance",
+     "rent assistance",
+     "food stamps",
+     "apply for snap",
+     "snap application",
+     "help paying rent"
     ],
     "es": [
      "servicios sociales",
@@ -1065,7 +1087,12 @@
      "asistencia en efectivo",
      "ayuda con medicaid",
      "oficina de asistencia social",
-     "asistencia general"
+     "asistencia general",
+     "asistencia de emergencia",
+     "ayuda para el alquiler",
+     "ayuda con el alquiler",
+     "cupones de alimentos",
+     "solicitar snap"
     ]
    },
    "en": {
@@ -1289,7 +1316,10 @@
      "land records",
      "record a deed",
      "notary services clerk",
-     "clerk records"
+     "clerk records",
+     "deed records",
+     "search for a deed",
+     "get a copy of my deed"
     ],
     "es": [
      "secretario del condado",
@@ -1297,7 +1327,10 @@
      "registros de tierras",
      "registrar una escritura",
      "servicios de notario del secretario",
-     "registros del secretario"
+     "registros del secretario",
+     "registros de escrituras",
+     "buscar una escritura",
+     "copia de mi escritura"
     ]
    },
    "en": {
@@ -1539,13 +1572,17 @@
      "sheriff sale",
      "foreclosure sale",
      "buy a foreclosed home",
-     "sheriff auction"
+     "sheriff auction",
+     "sheriff sales",
+     "foreclosure sales",
+     "sheriff auctions"
     ],
     "es": [
      "venta del alguacil",
      "venta por ejecucion hipotecaria",
      "comprar una casa embargada",
-     "subasta del alguacil"
+     "subasta del alguacil",
+     "ventas del alguacil"
     ]
    },
    "en": {
@@ -1788,7 +1825,8 @@
      "stray dog",
      "wild animal in my house",
      "animal complaint",
-     "dog running loose"
+     "dog running loose",
+     "dead animal removal"
     ],
     "es": [
      "control de animales",
@@ -2309,7 +2347,13 @@
      "missed garbage pickup",
      "trash day",
      "when is my garbage collected",
-     "bulk trash pickup"
+     "bulk trash pickup",
+     "garbage collection",
+     "trash collection",
+     "recycling schedule",
+     "missed trash pickup",
+     "garbage was not picked up",
+     "trash was not picked up"
     ],
     "es": [
      "recogida de basura",
@@ -2317,7 +2361,10 @@
      "no recogieron mi basura",
      "dia de la basura",
      "cuando recogen mi basura",
-     "recogida de objetos grandes"
+     "recogida de objetos grandes",
+     "recoleccion de basura",
+     "horario de reciclaje",
+     "no pasaron por la basura"
     ]
    },
    "en": {
@@ -2419,7 +2466,13 @@
      "pay a ticket",
      "court date for a ticket",
      "dispute a ticket",
-     "summons"
+     "summons",
+     "parking ticket",
+     "parking tickets",
+     "traffic tickets",
+     "pay a parking ticket",
+     "pay my ticket",
+     "court fines"
     ],
     "es": [
      "tribunal municipal",
@@ -2427,7 +2480,11 @@
      "pagar una multa",
      "fecha de corte por una multa",
      "disputar una multa",
-     "citacion"
+     "citacion",
+     "multa de estacionamiento",
+     "multas de estacionamiento",
+     "multas de transito",
+     "pagar mi multa"
     ]
    },
    "en": {
@@ -2551,7 +2608,15 @@
      "zoning permit",
      "zoning question",
      "home renovation permit",
-     "fence permit"
+     "fence permit",
+     "build a shed",
+     "shed permit",
+     "do construction",
+     "construction on my house",
+     "building permits",
+     "deck permit",
+     "pool permit",
+     "permits for construction"
     ],
     "es": [
      "permiso de construccion",
@@ -2559,7 +2624,10 @@
      "permiso de zonificacion",
      "pregunta de zonificacion",
      "permiso para renovar mi casa",
-     "permiso para una cerca"
+     "permiso para una cerca",
+     "construir un cobertizo",
+     "permiso para construir",
+     "hacer una construccion"
     ]
    },
    "en": {
@@ -2602,7 +2670,13 @@
      "local road repair",
      "street light not working",
      "snow plowing on my street",
-     "my street is not plowed"
+     "my street is not plowed",
+     "traffic light",
+     "traffic light out",
+     "traffic signal",
+     "streetlights",
+     "street lights",
+     "street light out"
     ],
     "es": [
      "farola apagada",
@@ -2610,7 +2684,10 @@
      "reparacion de calles locales",
      "farola que no funciona",
      "quitanieves en mi calle",
-     "mi calle no esta limpia de nieve"
+     "mi calle no esta limpia de nieve",
+     "semaforo",
+     "semaforo no funciona",
+     "alumbrado publico"
     ]
    },
    "en": {
@@ -2652,6 +2729,325 @@
     ]
    },
    "source": "https://www.gloucestercountynj.gov/",
+   "sourceLabel": "Gloucester County official site"
+  },
+  {
+   "id": "route-mvc-license",
+   "keywords": {
+    "en": [
+     "motor vehicle commission",
+     "mvc",
+     "dmv",
+     "driver license renewal",
+     "renew my drivers license",
+     "renew my license",
+     "license plates",
+     "car registration",
+     "vehicle registration",
+     "registration renewal",
+     "title a car",
+     "non driver id"
+    ],
+    "es": [
+     "comision de vehiculos motorizados",
+     "renovar mi licencia",
+     "registro de vehiculo",
+     "renovacion de registro",
+     "placas del carro",
+     "dmv"
+    ]
+   },
+   "en": {
+    "lead": "Driver licenses, vehicle registrations and license plates are handled by the New Jersey Motor Vehicle Commission (MVC), a state agency, not by Gloucester County.",
+    "details": [
+     "Many MVC transactions can be done online at nj.gov/mvc, including license and registration renewals. In-person visits are by appointment, booked on the MVC website, which lists every MVC agency and what each one handles. The MVC statewide phone line is 609-292-6500.",
+     "The County Clerk cannot renew a driver license or a vehicle registration. Disability placards are also issued through the MVC."
+    ],
+    "contact": [
+     {
+      "label": "NJ Motor Vehicle Commission",
+      "value": "nj.gov/mvc",
+      "href": "https://www.nj.gov/mvc/"
+     },
+     {
+      "label": "NJ MVC statewide line",
+      "value": "609-292-6500",
+      "href": "tel:+16092926500"
+     }
+    ]
+   },
+   "es": {
+    "lead": "Las licencias de conducir, los registros de vehículos y las placas los atiende la Comisión de Vehículos Motorizados de New Jersey (MVC), una agencia estatal, no el Condado de Gloucester.",
+    "details": [
+     "Muchos trámites de la MVC pueden hacerse en línea en nj.gov/mvc, incluidas las renovaciones de licencia y de registro. Las visitas en persona son con cita, reservada en el sitio web de la MVC, que enumera cada agencia de la MVC y lo que atiende cada una. La línea telefónica estatal de la MVC es 609-292-6500.",
+     "El Secretario del Condado no puede renovar una licencia de conducir ni un registro de vehículo. Los permisos de estacionamiento para discapacitados también se emiten a través de la MVC."
+    ],
+    "contact": [
+     {
+      "label": "Comisión de Vehículos Motorizados de NJ",
+      "value": "nj.gov/mvc",
+      "href": "https://www.nj.gov/mvc/"
+     },
+     {
+      "label": "Línea estatal de la MVC de NJ",
+      "value": "609-292-6500",
+      "href": "tel:+16092926500"
+     }
+    ]
+   },
+   "source": "https://www.nj.gov/mvc/",
+   "sourceLabel": "NJ Motor Vehicle Commission"
+  },
+  {
+   "id": "route-power-outage",
+   "keywords": {
+    "en": [
+     "power outage",
+     "power is out",
+     "electricity out",
+     "no power",
+     "report an outage",
+     "downed power line",
+     "power line down",
+     "outage map"
+    ],
+    "es": [
+     "corte de luz",
+     "no hay luz",
+     "se fue la luz",
+     "reportar un corte de luz",
+     "cable caido",
+     "sin electricidad"
+    ]
+   },
+   "en": {
+    "lead": "Power outages are handled by your electric utility, not by the county. Two utilities serve Gloucester County, Atlantic City Electric and PSE&G, and your electric bill names the one that serves your home.",
+    "details": [
+     "Report your outage to your own utility, even if the whole street is dark, so it can track restoration at your address. Atlantic City Electric takes outage reports at 1-800-833-7476 and on its outage map. PSE&G takes them at 1-800-436-7734 and in its outage center.",
+     "For a downed power line, stay well away from it and call 911. If you smell gas, leave the building first, then call 911 or your gas utility from outside: South Jersey Gas at 1-800-582-7060, or PSE&G at 1-800-436-7734."
+    ],
+    "contact": [
+     {
+      "label": "Atlantic City Electric outage line",
+      "value": "1-800-833-7476",
+      "href": "tel:+18008337476"
+     },
+     {
+      "label": "Atlantic City Electric outage map",
+      "value": "atlanticcityelectric.com/outagemap",
+      "href": "https://www.atlanticcityelectric.com/outagemap"
+     },
+     {
+      "label": "PSE&G outage line",
+      "value": "1-800-436-7734",
+      "href": "tel:+18004367734"
+     },
+     {
+      "label": "PSE&G outage center",
+      "value": "outagecenter.pseg.com",
+      "href": "https://outagecenter.pseg.com"
+     }
+    ]
+   },
+   "es": {
+    "lead": "Los cortes de electricidad los atiende su compañía eléctrica, no el condado. Dos compañías sirven al Condado de Gloucester, Atlantic City Electric y PSE&G, y su factura de electricidad indica cuál sirve a su hogar.",
+    "details": [
+     "Reporte su corte a su propia compañía, aunque toda la calle esté sin luz, para que pueda seguir la restauración en su dirección. Atlantic City Electric recibe reportes de cortes al 1-800-833-7476 y en su mapa de cortes. PSE&G los recibe al 1-800-436-7734 y en su centro de cortes.",
+     "Para un cable eléctrico caído, manténgase bien alejado y llame al 911. Si huele a gas, salga primero del edificio y luego llame al 911 o a su compañía de gas desde afuera: South Jersey Gas al 1-800-582-7060, o PSE&G al 1-800-436-7734."
+    ],
+    "contact": [
+     {
+      "label": "Línea de cortes de Atlantic City Electric",
+      "value": "1-800-833-7476",
+      "href": "tel:+18008337476"
+     },
+     {
+      "label": "Mapa de cortes de Atlantic City Electric",
+      "value": "atlanticcityelectric.com/outagemap",
+      "href": "https://www.atlanticcityelectric.com/outagemap"
+     },
+     {
+      "label": "Línea de cortes de PSE&G",
+      "value": "1-800-436-7734",
+      "href": "tel:+18004367734"
+     },
+     {
+      "label": "Centro de cortes de PSE&G",
+      "value": "outagecenter.pseg.com",
+      "href": "https://outagecenter.pseg.com"
+     }
+    ]
+   },
+   "source": "https://www.nj.gov/bpu/assistance/utility/",
+   "sourceLabel": "NJ Board of Public Utilities"
+  },
+  {
+   "id": "route-nj-transit",
+   "keywords": {
+    "en": [
+     "nj transit",
+     "bus schedule",
+     "bus to philadelphia",
+     "public transportation",
+     "bus stop near me",
+     "bus fares"
+    ],
+    "es": [
+     "nj transit",
+     "horario de autobuses",
+     "transporte publico",
+     "autobus a philadelphia",
+     "tarifas de autobus"
+    ]
+   },
+   "en": {
+    "lead": "Bus service in Gloucester County is run by NJ TRANSIT, a state agency, not by the county.",
+    "details": [
+     "Schedules, fares and trip planning are at njtransit.com. NJ TRANSIT Information is 973-275-5555: automated schedule and fare information is available 24 hours a day, and operators are available 8:30 AM to 5:00 PM.",
+     "The county runs a separate ride service of its own for residents age 60 and older, residents with disabilities, veterans and low income residents. Ask this assistant about senior transportation for that program."
+    ],
+    "contact": [
+     {
+      "label": "NJ TRANSIT Information",
+      "value": "973-275-5555",
+      "href": "tel:+19732755555"
+     },
+     {
+      "label": "NJ TRANSIT",
+      "value": "njtransit.com",
+      "href": "https://www.njtransit.com"
+     }
+    ]
+   },
+   "es": {
+    "lead": "El servicio de autobuses en el Condado de Gloucester lo opera NJ TRANSIT, una agencia estatal, no el condado.",
+    "details": [
+     "Los horarios, las tarifas y la planificación de viajes están en njtransit.com. Información de NJ TRANSIT es 973-275-5555: la información automatizada de horarios y tarifas está disponible las 24 horas, y los operadores atienden de 8:30 AM a 5:00 PM.",
+     "El condado opera un servicio de viajes aparte para residentes de 60 años o más, residentes con discapacidades, veteranos y residentes de bajos ingresos. Pregunte a este asistente sobre el transporte para personas mayores para ese programa."
+    ],
+    "contact": [
+     {
+      "label": "Información de NJ TRANSIT",
+      "value": "973-275-5555",
+      "href": "tel:+19732755555"
+     },
+     {
+      "label": "NJ TRANSIT",
+      "value": "njtransit.com",
+      "href": "https://www.njtransit.com"
+     }
+    ]
+   },
+   "source": "https://www.njtransit.com",
+   "sourceLabel": "NJ TRANSIT"
+  },
+  {
+   "id": "route-dead-animal",
+   "keywords": {
+    "en": [
+     "dead animal",
+     "dead deer",
+     "dead animal in the road",
+     "animal carcass",
+     "dead raccoon",
+     "dead animal removal"
+    ],
+    "es": [
+     "animal muerto",
+     "venado muerto",
+     "animal muerto en la calle",
+     "ciervo muerto"
+    ]
+   },
+   "en": {
+    "lead": "For a dead animal, start with Gloucester County Animal Control at 856-881-2828.",
+    "details": [
+     "Animal Control can tell you who handles removal in your case. Removal from a county road is arranged through Public Works, from a town street through your municipality, and Animal Control will advise you about an animal on private property.",
+     "If the animal is lying in the road and creating a danger for drivers, call 911."
+    ],
+    "contact": [
+     {
+      "label": "Gloucester County Animal Shelter",
+      "value": "856-881-2828",
+      "href": "tel:+18568812828"
+     },
+     {
+      "label": "Public Works",
+      "value": "856-307-6400",
+      "href": "tel:+18563076400"
+     }
+    ]
+   },
+   "es": {
+    "lead": "Para un animal muerto, comience con el Control de Animales del Condado de Gloucester al 856-881-2828.",
+    "details": [
+     "El Control de Animales puede decirle quién se encarga de retirarlo en su caso. El retiro de una carretera del condado se gestiona a través de Obras Públicas, el de una calle del pueblo a través de su municipio, y el Control de Animales le asesorará sobre un animal en propiedad privada.",
+     "Si el animal está en la vía y crea un peligro para los conductores, llame al 911."
+    ],
+    "contact": [
+     {
+      "label": "Refugio de Animales del Condado de Gloucester",
+      "value": "856-881-2828",
+      "href": "tel:+18568812828"
+     },
+     {
+      "label": "Obras Públicas",
+      "value": "856-307-6400",
+      "href": "tel:+18563076400"
+     }
+    ]
+   },
+   "source": "https://www.gloucestercountynj.gov/178/Animal-Control-Services",
+   "sourceLabel": "Gloucester County Animal Control Services"
+  },
+  {
+   "id": "route-no-heat",
+   "keywords": {
+    "en": [
+     "no heat",
+     "no hot water",
+     "landlord will not fix heat",
+     "heat is not working",
+     "furnace is broken",
+     "no heat in my apartment"
+    ],
+    "es": [
+     "no hay calefaccion",
+     "sin calefaccion",
+     "la calefaccion no funciona",
+     "el casero no arregla la calefaccion",
+     "sin agua caliente"
+    ]
+   },
+   "en": {
+    "lead": "No-heat complaints are handled by your municipality, not by the county.",
+    "details": [
+     "If you rent, tell your landlord first, and put the request in writing if you can. If the heat is not restored, contact your town hall and ask for the code enforcement or construction office, which is where heat complaints go in most towns.",
+     "If anyone in the home is in danger because of the cold, especially a baby, an older adult or someone who is ill, call 911. Never use a stove or an oven to heat your home."
+    ],
+    "contact": [
+     {
+      "label": "Gloucester County main number",
+      "value": "856-853-3200",
+      "href": "tel:+18568533200"
+     }
+    ]
+   },
+   "es": {
+    "lead": "Las quejas por falta de calefacción las atiende su municipio, no el condado.",
+    "details": [
+     "Si alquila, avise primero a su casero y, si puede, ponga la solicitud por escrito. Si no se restablece la calefacción, contacte al ayuntamiento de su pueblo y pida la oficina de cumplimiento de códigos o de construcción, que es donde van las quejas de calefacción en la mayoría de los pueblos.",
+     "Si alguien en el hogar está en peligro por el frío, especialmente un bebé, un adulto mayor o una persona enferma, llame al 911. Nunca use una estufa ni un horno para calentar su hogar."
+    ],
+    "contact": [
+     {
+      "label": "Número principal del Condado de Gloucester",
+      "value": "856-853-3200",
+      "href": "tel:+18568533200"
+     }
+    ]
+   },
+   "source": "https://www.gloucestercountynj.gov",
    "sourceLabel": "Gloucester County official site"
   }
  ]
