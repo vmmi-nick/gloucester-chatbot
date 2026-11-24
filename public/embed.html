@@ -111,22 +111,13 @@
   @media (prefers-color-scheme: dark){ .rp-err{color:#f28b82} }
   .reportpanel .speakbtn{margin-left:10px}
 
-  /* ---------- suggestion chips ---------- */
-  /* One horizontally scrolling row: wrapping these long chips previously
-     stacked them into a tall block that crowded the composer out of
-     short frames. */
-  .tryrow{flex:0 0 auto;display:flex;align-items:center;gap:8px;flex-wrap:nowrap;padding:8px 12px;background:var(--bg)}
-  .trylabel{font-size:.76rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--green-deep);flex:0 0 auto}
-  .chips{display:flex;gap:7px;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;padding:2px 0;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-  .chips::-webkit-scrollbar{display:none}
-  .chip{
-    background:var(--panel);border:1px solid var(--green);color:var(--text);
-    border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit;font-size:.85rem;
-    flex:0 0 auto;white-space:nowrap;
+  /* ---------- report entry (near composer) ---------- */
+  .reportbtn{
+    background:var(--navy);border:1px solid var(--navy);color:#fff;font-weight:600;
+    border-radius:999px;padding:6px 14px;cursor:pointer;font:inherit;font-size:.85rem;
+    margin:0 0 8px;
   }
-  .chip:hover{background:var(--green-pale)}
-  .chip.report-chip{background:var(--navy);border-color:var(--navy);color:#fff;font-weight:600}
-  .chip.report-chip:hover{background:var(--navy-dark)}
+  .reportbtn:hover{background:var(--navy-dark)}
 
   /* ---------- composer ---------- */
   .composer{
@@ -149,15 +140,15 @@
   button.send:disabled{opacity:.55;cursor:default}
 
   /* ---------- voice (mic input + read-aloud) ---------- */
-  .voicebar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 8px}
-  .voice-enc{font-size:.85rem;line-height:1.35;color:var(--muted)}
+  .voicebar{display:flex;align-items:center;gap:8px;flex-wrap:nowrap;margin:0 0 6px;min-height:38px}
+  .voice-enc{font-size:.78rem;line-height:1.25;color:var(--muted);flex:1 1 auto;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   button.mic{
     background:var(--panel);color:var(--navy);border:1px solid var(--green);border-radius:999px;
-    padding:10px 18px;cursor:pointer;flex:0 0 auto;font:inherit;font-size:1rem;font-weight:600;
-    display:inline-flex;align-items:center;justify-content:center;gap:10px;box-shadow:var(--shadow);
+    padding:6px 12px;cursor:pointer;flex:0 0 auto;font:inherit;font-size:.88rem;font-weight:600;height:38px;
+    display:inline-flex;align-items:center;justify-content:center;gap:6px;box-shadow:var(--shadow);
   }
   button.mic:hover{background:var(--green-pale)}
-  button.mic svg{width:24px;height:24px;fill:currentColor;flex:0 0 auto}
+  button.mic svg{width:18px;height:18px;fill:currentColor;flex:0 0 auto}
   button.mic.listening{background:var(--navy);color:#fff;border-color:var(--navy);animation:micpulse 1.2s ease-in-out infinite}
   @keyframes micpulse{0%,100%{box-shadow:0 0 0 0 rgba(0,67,130,.45)}50%{box-shadow:0 0 0 12px rgba(0,67,130,0)}}
   @media (prefers-color-scheme: dark){
@@ -247,12 +238,8 @@
   <div id="chat" role="log" aria-live="polite" aria-label="Conversation"></div>
 </div>
 
-<div class="tryrow">
-  <span class="trylabel" id="try-label">Try asking:</span>
-  <div class="chips" id="chips"></div>
-</div>
-
 <div class="composer">
+  <button class="reportbtn" id="report-btn" type="button">Report an issue</button>
   <form id="askform">
     <label class="sr-only" for="q" id="q-label">Ask about county services</label>
     <textarea id="q" rows="2" autocomplete="off" placeholder="Ask about county services..."></textarea>
@@ -272,7 +259,6 @@
       source: 'Source', thinking: 'Checking the county sources...',
       cardsTitle: 'Browse county topics',
       cardsSub: 'Tap a topic and the question is asked for you.',
-      tryLabel: 'Try asking:',
       qLabel: 'Ask about county services',
       greeting: 'Hello. I can help you find Gloucester County services, phone numbers and meeting dates, and I can tell you which services belong to your town instead. Ask me a question, or tap one of the topics below.',
       voice: { mic: 'Tap & Talk', listening: 'Listening...', listen: 'Listen', stop: 'Stop', encourage: 'Skip the typing. Tap the mic, ask out loud, get your answer.', nohear: "I didn't catch that. Tap the microphone and try again.", blocked: 'Microphone access is blocked. Allow the microphone in your browser settings, or type your question instead.', network: 'Voice recognition needs an internet connection.' },
@@ -284,8 +270,6 @@
         { title: 'Senior Services', desc: 'Programs and transportation for seniors.', q: 'What senior services does the county offer?' },
         { title: 'Elections', desc: 'Registering and voting by mail.', q: 'How do I register to vote?' }
       ],
-      chips: ['When is the next commissioners meeting?', 'Who are the county commissioners?', 'How do I report a pothole on a county road?', 'What veterans services does the county offer?', 'What senior services does the county offer?', 'How do I register to vote?']
- ,
       report: {
         title: 'Report an issue',
         sub: 'Prepare your report here. This page does not send or save it. When your summary is ready, call the county department that handles your issue and give them the summary.',
@@ -322,7 +306,6 @@
       source: 'Fuente', thinking: 'Consultando las fuentes del condado...',
       cardsTitle: 'Temas del condado',
       cardsSub: 'Toque un tema y la pregunta se hace por usted.',
-      tryLabel: 'Pruebe preguntar:',
       qLabel: 'Pregunte sobre los servicios del condado',
       greeting: 'Hola. Puedo ayudarle a encontrar servicios, números de teléfono y fechas de reuniones del Condado de Gloucester, y decirle qué servicios corresponden a su pueblo. Hágame una pregunta o toque uno de los temas abajo.',
       voice: { mic: 'Toque y hable', listening: 'Escuchando...', listen: 'Escuchar', stop: 'Detener', encourage: 'Sin escribir. Toque el micrófono, pregunte en voz alta y reciba su respuesta.', nohear: 'No escuché eso. Toque el micrófono e inténtelo de nuevo.', blocked: 'El acceso al micrófono está bloqueado. Permita el micrófono en los ajustes de su navegador, o escriba su pregunta.', network: 'El reconocimiento de voz necesita una conexión a internet.' },
@@ -334,8 +317,6 @@
         { title: 'Servicios para Personas Mayores', desc: 'Programas y transporte para personas mayores.', q: '¿Qué servicios para personas mayores ofrece el condado?' },
         { title: 'Elecciones', desc: 'Registrarse y votar por correo.', q: '¿Cómo me inscribo para votar?' }
       ],
-      chips: ['¿Cuándo es la próxima reunión de comisionados?', '¿Quiénes son los comisionados del condado?', '¿Cómo reporto un bache en una carretera del condado?', '¿Qué servicios para veteranos ofrece el condado?', '¿Qué servicios para personas mayores ofrece el condado?', '¿Cómo me inscribo para votar?']
- ,
       report: {
         title: 'Reportar un problema',
         sub: 'Prepare su reporte aquí. Esta página no lo envía ni lo guarda. Cuando su resumen esté listo, llame al departamento del condado que atiende su problema y entréguele el resumen.',
@@ -366,7 +347,6 @@
     }
   };
   var chat = document.getElementById('chat');
-  var chipsEl = document.getElementById('chips');
   var cardsEl = document.getElementById('cards');
   var chatwrap = document.getElementById('chatwrap');
   function scrollChat(){ chatwrap.scrollTop = chatwrap.scrollHeight; }
@@ -396,17 +376,6 @@
     if (voice.synthOK) attachSpeak(div, div.textContent.replace(/\s+/g,' ').trim(), data.lang);
     chat.appendChild(div); scrollChat();
   }
-  function renderChips(){
-    chipsEl.innerHTML='';
-    var rb=document.createElement('button'); rb.type='button'; rb.className='chip report-chip'; rb.textContent=STR[lang].report.title;
-    rb.onclick=function(){ goReport(); };
-    chipsEl.appendChild(rb);
-    STR[lang].chips.forEach(function(c){
-      var b=document.createElement('button'); b.type='button'; b.className='chip'; b.textContent=c;
-      b.onclick=function(){ ask(c); };
-      chipsEl.appendChild(b);
-    });
-  }
   function renderCards(){
     if (!cardsEl) return;
     cardsEl.innerHTML='';
@@ -429,7 +398,6 @@
     document.getElementById('sendbtn').textContent=STR[lang].ask;
     var ctEl=document.getElementById('cards-title'); if (ctEl) ctEl.textContent=STR[lang].cardsTitle;
     var csEl=document.getElementById('cards-sub'); if (csEl) csEl.textContent=STR[lang].cardsSub;
-    document.getElementById('try-label').textContent=STR[lang].tryLabel;
     document.getElementById('btn-en').classList.toggle('active', lang==='en');
     document.getElementById('btn-es').classList.toggle('active', lang==='es');
     document.getElementById('btn-en').setAttribute('aria-pressed', lang==='en' ? 'true' : 'false');
@@ -443,7 +411,7 @@
     if (voice.enc) voice.enc.textContent=STR[lang].voice.encourage;
     if (voice.hint) voice.hint.textContent = STR[lang].voice.listening;
     if (voice.rpSpeakBtn && !(voice.speakState && voice.speakState.btn===voice.rpSpeakBtn)) resetSpeakBtn(voice.rpSpeakBtn, lang);
-    renderChips();
+    var rBtn=document.getElementById('report-btn'); if (rBtn){ rBtn.textContent=STR[lang].report.title; rBtn.onclick=function(){ goReport(); }; }
     renderCards();
     rpApply();
   }
