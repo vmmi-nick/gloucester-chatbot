@@ -46,15 +46,31 @@ function detectLang(question, requested) {
   return hintCount >= 1 ? 'es' : 'en';
 }
 
+// Single words are matched whole-word only (the question is space-padded),
+// so 'gun' can no longer fire inside the Spanish word 'pregunta'. Bare
+// 'emergency' / 'emergencia' are NOT triggers: they are scoped to phrases
+// ('I have an emergency', 'hay una emergencia') so assistance questions
+// like 'emergency rent assistance' route to Social Services instead of 911.
 const EMERGENCY = [
-  'fire', 'smoke', 'burning', 'robbery', 'robbed', 'break in', 'breaking in', 'gun', 'shooting',
-  'heart attack', 'chest pain', 'not breathing', 'unconscious', 'overdose', 'choking', 'bleeding',
-  'car accident with injuries', 'emergency', 'fuego', 'incendio', 'humo', 'robo', 'atraco', 'disparo',
-  'emergencia', 'no respira', 'inconsciente', 'sangrando', 'ataque al corazon'
+  'fire', 'smoke', 'burning', 'robbery', 'robbed', 'gun', 'shooting',
+  'overdose', 'choking', 'bleeding', 'fight', 'fighting', 'assault', 'assaulted', 'attacked',
+  'fuego', 'incendio', 'humo', 'robo', 'atraco', 'disparo',
+  'pelea', 'asalto', 'agresion', 'inconsciente', 'sangrando',
+  'break in', 'breaking in', 'heart attack', 'chest pain', 'not breathing', 'unconscious',
+  'car accident with injuries', 'smell gas', 'gas leak', 'gas smell', 'hit and run',
+  'i have an emergency', 'this is an emergency', 'there is an emergency',
+  'no respira', 'ataque al corazon',
+  'huele a gas', 'fuga de gas', 'olor a gas', 'atropello y fuga', 'choque y fuga',
+  'hay una emergencia', 'tengo una emergencia', 'es una emergencia'
 ];
 
 function isEmergency(qn) {
-  return EMERGENCY.some((w) => qn.includes(normalize(w)));
+  return EMERGENCY.some((w) => {
+    const nw = normalize(w);
+    if (!nw) return false;
+    if (!nw.includes(' ')) return qn.includes(' ' + nw + ' ');
+    return qn.includes(nw);
+  });
 }
 
 // Services Gloucester County does not provide; never let a generic keyword
@@ -314,7 +330,18 @@ app.post('/api/ask', async (req, res) => {
 
   if (isEmergency(qn)) return res.json({ lang, ...emergencyAnswer(lang) });
 
-  if (NOT_COUNTY.some((w) => qn.includes(normalize(w)))) {
+  if (NOT_COUNTY.some((w) => qn.includes(' ' + normalize(w) + ' ') || qn.includes(normalize(w)))) {
+    // Driver licenses and vehicle registrations get a real MVC refer-out
+    // answer (topic route-mvc-license), not a generic fallback.
+    const mvc = index.topics.find((t) => t.id === 'route-mvc-license');
+    if (mvc) {
+      const a = mvc[lang] || mvc.en;
+      return res.json({
+        lang, kind: 'answer',
+        lead: a.lead, details: a.details, contact: a.contact,
+        source: mvc.source, sourceLabel: mvc.sourceLabel
+      });
+    }
     return res.json({ lang, ...fallbackAnswer(lang, 'not-a-county-service') });
   }
 
