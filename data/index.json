@@ -1193,14 +1193,25 @@
      "register to vote",
      "am i registered to vote",
      "voting in gloucester county",
-     "election information"
+     "election information",
+     "question about elections",
+     "about the elections",
+     "election questions"
     ],
     "es": [
      "registro de votantes",
      "inscribirse para votar",
      "estoy inscrito para votar",
      "votar en el condado de gloucester",
-     "informacion sobre elecciones"
+     "informacion sobre elecciones",
+     "pregunta sobre las elecciones",
+     "preguntas sobre las elecciones",
+     "sobre las elecciones",
+     "me inscribo para votar",
+     "inscribirme para votar",
+     "registrarme para votar",
+     "como me registro para votar",
+     "registrarme como votante"
     ]
    },
    "en": {
